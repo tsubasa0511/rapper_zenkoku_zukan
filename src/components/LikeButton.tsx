@@ -30,6 +30,7 @@ export default function LikeButton({ rapperId, initialLikes }: LikeButtonProps) 
         const result = await incrementLike(rapperId);
 
         if (!result.success) {
+            console.error("Like failed:", result.error);
             // Revert on failure
             setLikes(prev => prev - 1);
             setIsLiked(false);

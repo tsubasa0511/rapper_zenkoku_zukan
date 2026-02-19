@@ -4,6 +4,8 @@ import fs from 'fs';
 import path from 'path';
 import { Rapper } from '@/types/rapper';
 
+import { revalidatePath } from 'next/cache';
+
 // Use process.cwd() to get the root directory in Next.js
 const dataFilePath = path.join(process.cwd(), 'src/data/rappers.json');
 
@@ -12,18 +14,29 @@ export async function incrementLike(rapperId: string) {
         const fileContent = fs.readFileSync(dataFilePath, 'utf8');
         const rappers: Rapper[] = JSON.parse(fileContent);
 
+        let updated = false;
         const updatedRappers = rappers.map((rapper) => {
             if (rapper.id === rapperId) {
+                updated = true;
                 return { ...rapper, likes: (rapper.likes || 0) + 1 };
             }
             return rapper;
         });
 
+        if (!updated) {
+            console.error(`Rapper with ID ${rapperId} not found.`);
+            return { success: false, error: 'Rapper not found' };
+        }
+
         fs.writeFileSync(dataFilePath, JSON.stringify(updatedRappers, null, 4), 'utf8');
+
+        // Revalidate all pages to show new like count
+        revalidatePath('/', 'layout');
+
         return { success: true };
     } catch (error) {
         console.error('Failed to update likes:', error);
-        return { success: false, error: 'Failed to update likes' };
+        return { success: false, error: String(error) };
     }
 }
 
@@ -67,6 +80,9 @@ export async function registerRapper(formData: FormData) {
         rappers.push(newRapper);
 
         fs.writeFileSync(dataFilePath, JSON.stringify(rappers, null, 4), 'utf8');
+
+        revalidatePath('/', 'layout');
+
         return { success: true, id: newId };
 
     } catch (error) {
