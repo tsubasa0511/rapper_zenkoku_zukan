@@ -1,0 +1,4331 @@
+[
+    {
+        "id": "1",
+        "name": "THA BLUE HERB",
+        "region": "北海道",
+        "tags": [
+            "Legend",
+            "Underground",
+            "Conscious"
+        ],
+        "bio": "札幌を拠点に活動する伝説的なヒップホップグループ。BOSS THE MCのリリックは哲学的。",
+        "discography": [
+            "STILLING, STILL DREAMING"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=THA%20BLUE%20HERB"
+    },
+    {
+        "id": "2",
+        "name": "B.I.G. JOE",
+        "region": "北海道",
+        "tags": [
+            "Legend",
+            "Lyrical"
+        ],
+        "bio": "北海道を代表するリリシスト。深いメッセージを発信する。北海道を拠点に活動するラッパー。 Legend、Lyricalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "THE LOST DOPE"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=B.I.G.%20JOE"
+    },
+    {
+        "id": "3",
+        "name": "HOKT",
+        "region": "北海道",
+        "tags": [
+            "N.C.B.B",
+            "Gangsta"
+        ],
+        "bio": "北のヒップホップシーンを牽引するN.C.B.Bのリーダー。北海道を拠点に活動するラッパー。 N.C.B.B、Gangstaなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "G IN RHYMES"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=HOKT"
+    },
+    {
+        "id": "4",
+        "name": "YOUNG DAIS",
+        "region": "北海道",
+        "tags": [
+            "N.C.B.B",
+            "Actor"
+        ],
+        "bio": "俳優としても活動。『TOKYO TRIBE』主演。北海道を拠点に活動するラッパー。 N.C.B.B、Actorなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "PLAYLIST"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=YOUNG%20DAIS"
+    },
+    {
+        "id": "5",
+        "name": "SHUREN the FIRE",
+        "region": "北海道",
+        "tags": [
+            "Underground",
+            "Jazz Rap"
+        ],
+        "bio": "独特なフローとジャズを基調としたトラックで異彩を放つ。北海道を拠点に活動するラッパー。 Underground、Jazz Rapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "My Words Laugh Behind The Mask"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SHUREN%20the%20FIRE"
+    },
+    {
+        "id": "6",
+        "name": "LARGE IRON",
+        "region": "北海道",
+        "tags": [
+            "MIC JACK PRODUCTION"
+        ],
+        "bio": "重厚なラップスタイル。北海道を拠点に活動するラッパー。 MIC JACK PRODUCTIONなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=LARGE%20IRON"
+    },
+    {
+        "id": "7",
+        "name": "Ry-lax",
+        "region": "北海道",
+        "tags": [
+            "BCDMG"
+        ],
+        "bio": "旭川出身。BCDMG所属の実力派。 BCDMGなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [
+            "CONTROL"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Ry-lax"
+    },
+    {
+        "id": "8",
+        "name": "Power Wave",
+        "region": "北海道",
+        "tags": [
+            "Reggae",
+            "Rap"
+        ],
+        "bio": "レゲエとラップを横断するスタイル。北海道を拠点に活動するラッパー。 Reggae、Rapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Power%20Wave"
+    },
+    {
+        "id": "9",
+        "name": "Authority",
+        "region": "青森県",
+        "tags": [
+            "AH1",
+            "Mainstream"
+        ],
+        "bio": "青森出身。バトルでの活躍を経て音源制作に注力。AH1出演。 AH1、Mainstreamなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "EMERGENCE"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Authority"
+    },
+    {
+        "id": "10",
+        "name": "SI-RUDE",
+        "region": "青森県",
+        "tags": [
+            "Underground"
+        ],
+        "bio": "青森のローカルシーンを長年支える。青森県を拠点に活動するラッパー。 Undergroundなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SI-RUDE"
+    },
+    {
+        "id": "11",
+        "name": "MAKA",
+        "region": "岩手県",
+        "tags": [
+            "Reggae",
+            "Rap"
+        ],
+        "bio": "岩手出身。レゲエとヒップホップのエッセンス。 Reggae、Rapなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MAKA"
+    },
+    {
+        "id": "12",
+        "name": "J-MACK",
+        "region": "岩手県",
+        "tags": [
+            "Gangsta"
+        ],
+        "bio": "岩手のストリートシーン。岩手県を拠点に活動するラッパー。 Gangstaなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=J-MACK"
+    },
+    {
+        "id": "13",
+        "name": "GAGLE",
+        "region": "宮城県",
+        "tags": [
+            "Legend",
+            "Jazz Rap"
+        ],
+        "bio": "仙台を拠点にする伝説的ユニット。 Legend、Jazz Rapなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [
+            "3 MEN ON WAX"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=GAGLE"
+    },
+    {
+        "id": "14",
+        "name": "HUNGER",
+        "region": "宮城県",
+        "tags": [
+            "GAGLE",
+            "Lyrical"
+        ],
+        "bio": "高速かつ精確なラップスキル。宮城県を拠点に活動するラッパー。 GAGLE、Lyricalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=HUNGER"
+    },
+    {
+        "id": "15",
+        "name": "TERRY",
+        "region": "宮城県",
+        "tags": [
+            "Emotional"
+        ],
+        "bio": "等身大のメッセージソング。宮城県を拠点に活動するラッパー。 Emotionalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=TERRY"
+    },
+    {
+        "id": "16",
+        "name": "Moment Joon",
+        "region": "宮城県",
+        "tags": [
+            "Immigrant",
+            "Conscious"
+        ],
+        "bio": "移民としての視点から鋭い社会批評。宮城県を拠点に活動するラッパー。 Immigrant、Consciousなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Passport & Garcon"
+        ],
+        "social": {},
+        "image": "/images/rappers/Moment_Joon.jpg"
+    },
+    {
+        "id": "17",
+        "name": "Lunv Loyal",
+        "region": "秋田県",
+        "tags": [
+            "New Wave",
+            "Trap",
+            "POP YOURS"
+        ],
+        "bio": "秋田出身。哀愁漂うリリックとメロディ。POP YOURS出演。 New Wave、Trap、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "ZERO"
+        ],
+        "social": {},
+        "image": "/images/rappers/Lunv_Loyal.jpg"
+    },
+    {
+        "id": "18",
+        "name": "R羅",
+        "region": "秋田県",
+        "tags": [
+            "Old School"
+        ],
+        "bio": "秋田のヒップホップシーンの先駆者。秋田県を拠点に活動するラッパー。 Old Schoolなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=R%E7%BE%85"
+    },
+    {
+        "id": "19",
+        "name": "葉花源吸",
+        "region": "山形県",
+        "tags": [
+            "Comedy"
+        ],
+        "bio": "山形弁を巧みに操るスタイル。山形県を拠点に活動するラッパー。 Comedyなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E8%91%89%E8%8A%B1%E6%BA%90%E5%90%B8"
+    },
+    {
+        "id": "20",
+        "name": "V-1",
+        "region": "山形県",
+        "tags": [
+            "Street"
+        ],
+        "bio": "山形の現場を沸かせる。山形県を拠点に活動するラッパー。 Streetなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=V-1"
+    },
+    {
+        "id": "21",
+        "name": "FOX",
+        "region": "福島県",
+        "tags": [
+            "Conscious"
+        ],
+        "bio": "福島の現状や心情をリアルに綴る。福島県を拠点に活動するラッパー。 Consciousなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=FOX"
+    },
+    {
+        "id": "22",
+        "name": "JAG-ME",
+        "region": "福島県",
+        "tags": [
+            "Underground",
+            "Lyrical"
+        ],
+        "bio": "東北のアンダーグラウンド。福島県を拠点に活動するラッパー。 Underground、Lyricalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=JAG-ME"
+    },
+    {
+        "id": "23",
+        "name": "Lunch Time Speax",
+        "region": "茨城県",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "水戸独自のシーンを築いた伝説。茨城県を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Blue Print Maneuver"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Lunch%20Time%20Speax"
+    },
+    {
+        "id": "24",
+        "name": "ShowyRENZO",
+        "region": "茨城県",
+        "tags": [
+            "Showy",
+            "New Wave",
+            "STARZ",
+            "Trap"
+        ],
+        "bio": "茨城出身。Showyのメンバー。若者からカルト的人気。STARZファイナリスト周辺。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/ShowyRENZO.jpg"
+    },
+    {
+        "id": "25",
+        "name": "WOODSMAN",
+        "region": "茨城県",
+        "tags": [
+            "Nature"
+        ],
+        "bio": "土臭いビートとラップ。茨城県を拠点に活動するラッパー。 Natureなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=WOODSMAN"
+    },
+    {
+        "id": "26",
+        "name": "SATORU",
+        "region": "栃木県",
+        "tags": [
+            "Gangsta",
+            "Brasil",
+            "POP YOURS"
+        ],
+        "bio": "栃木・足利出身。ブラジルルーツの攻撃的なスタイルで話題。POP YOURS出演。",
+        "discography": [
+            "SATORU"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SATORU"
+    },
+    {
+        "id": "27",
+        "name": "KA-Y",
+        "region": "栃木県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "栃木のストリート。栃木県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KA-Y"
+    },
+    {
+        "id": "28",
+        "name": "Fuji Taito",
+        "region": "群馬県",
+        "tags": [
+            "Briza",
+            "Drill",
+            "POP YOURS"
+        ],
+        "bio": "群馬出身。重厚なドリルサウンドと低音ボイス。POP YOURS出演。 Briza、Drill、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Crows"
+        ],
+        "social": {},
+        "image": "/images/rappers/Fuji_Taito.jpg"
+    },
+    {
+        "id": "29",
+        "name": "GEORGE TIGER ONE",
+        "region": "群馬県",
+        "tags": [
+            "Reggae",
+            "Rap"
+        ],
+        "bio": "群馬の重鎮。群馬県を拠点に活動するラッパー。 Reggae、Rapなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=GEORGE%20TIGER%20ONE"
+    },
+    {
+        "id": "30",
+        "name": "ESPERANZA",
+        "region": "群馬県",
+        "tags": [
+            "Group"
+        ],
+        "bio": "群馬拠点。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=ESPERANZA"
+    },
+    {
+        "id": "31",
+        "name": "NAMEDARUMA",
+        "region": "埼玉県",
+        "tags": [
+            "Group",
+            "Gangsta"
+        ],
+        "bio": "熊谷拠点の「舐達麻」。リアルなストリートライフ。 Gangstaなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [
+            "GODBREATH BUDDHACESS"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=NAMEDARUMA"
+    },
+    {
+        "id": "32",
+        "name": "BADSAIKUSH",
+        "region": "埼玉県",
+        "tags": [
+            "NAMEDARUMA",
+            "Lyrical"
+        ],
+        "bio": "舐達麻のリーダー格。埼玉県を拠点に活動するラッパー。 NAMEDARUMA、Lyricalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=BADSAIKUSH"
+    },
+    {
+        "id": "33",
+        "name": "G-PLANTS",
+        "region": "埼玉県",
+        "tags": [
+            "NAMEDARUMA",
+            "Technical"
+        ],
+        "bio": "舐達麻のメンバー。埼玉県を拠点に活動するラッパー。 NAMEDARUMA、Technicalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=G-PLANTS"
+    },
+    {
+        "id": "34",
+        "name": "DELTA9KID",
+        "region": "埼玉県",
+        "tags": [
+            "NAMEDARUMA",
+            "Stylish"
+        ],
+        "bio": "舐達麻のメンバー。埼玉県を拠点に活動するラッパー。 NAMEDARUMA、Stylishなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=DELTA9KID"
+    },
+    {
+        "id": "35",
+        "name": "KENNY-G",
+        "region": "埼玉県",
+        "tags": [
+            "Gangsta"
+        ],
+        "bio": "リアルなアウトロースタイル。埼玉県を拠点に活動するラッパー。 Gangstaなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KENNY-G"
+    },
+    {
+        "id": "36",
+        "name": "Loota",
+        "region": "埼玉県",
+        "tags": [
+            "Cloud Rap",
+            "International"
+        ],
+        "bio": "Keith Ape「It G Ma」で世界的に有名。埼玉県を拠点に活動するラッパー。 Cloud Rap、Internationalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Loota"
+    },
+    {
+        "id": "37",
+        "name": "Bonbero",
+        "region": "千葉県",
+        "tags": [
+            "Lyrical",
+            "Technical",
+            "POP YOURS",
+            "Drill"
+        ],
+        "bio": "千葉出身。圧倒的な高速ラップとスキル。POP YOURS出演。 Lyrical、Technical、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Knock it Down"
+        ],
+        "social": {},
+        "image": "/images/rappers/bonbero.jpg"
+    },
+    {
+        "id": "38",
+        "name": "Tade Dust",
+        "region": "千葉県",
+        "tags": [
+            "Lyrical",
+            "POP YOURS"
+        ],
+        "bio": "Bonberoとの共作も多い実力派。千葉県を拠点に活動するラッパー。 Lyrical、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Smartweed"
+        ],
+        "social": {},
+        "image": "/images/rappers/Tade_Dust.jpg"
+    },
+    {
+        "id": "39",
+        "name": "eyden",
+        "region": "千葉県",
+        "tags": [
+            "Rapstar Champion",
+            "Stylish",
+            "Trap",
+            "Drill"
+        ],
+        "bio": "千葉出身。ラップスタア誕生2021王者。POP YOURS出演。 Rapstar Champion、Stylish、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "T.B.T."
+        ],
+        "social": {},
+        "image": "/images/rappers/eyden.jpg"
+    },
+    {
+        "id": "40",
+        "name": "SKY-HI",
+        "region": "千葉県",
+        "tags": [
+            "BMSG",
+            "CEO"
+        ],
+        "bio": "BMSG社長。高速ラップ。千葉県を拠点に活動するラッパー。 BMSG、CEOなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "八面六臂"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SKY-HI"
+    },
+    {
+        "id": "41",
+        "name": "RAU DEF",
+        "region": "千葉県",
+        "tags": [
+            "Lyrical"
+        ],
+        "bio": "実力派ラッパー。千葉県を拠点に活動するラッパー。 Lyricalなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=RAU%20DEF"
+    },
+    {
+        "id": "42",
+        "name": "DELI",
+        "region": "千葉県",
+        "tags": [
+            "NITRO MICROPHONE UNDERGROUND"
+        ],
+        "bio": "千葉・松戸出身。現在は市議会議員。 NITRO MICROPHONE UNDERGROUNDなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=DELI"
+    },
+    {
+        "id": "43",
+        "name": "MIKRIS",
+        "region": "千葉県",
+        "tags": [
+            "Team 44 Blox",
+            "Mad"
+        ],
+        "bio": "千葉を代表するマッドなラッパー。千葉県を拠点に活動するラッパー。 Team 44 Blox、Madなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MIKRIS"
+    },
+    {
+        "id": "44",
+        "name": "Kohjiya",
+        "region": "長崎県",
+        "tags": [
+            "Rapstar Champion",
+            "POP YOURS"
+        ],
+        "bio": "長崎出身だが東京拠点。RAPSTAR 2024優勝。音楽性の幅広さが魅力。 Rapstar Champion、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "DREAM"
+        ],
+        "social": {},
+        "image": "/images/rappers/kohjiya.jpg"
+    },
+    {
+        "id": "45",
+        "name": "Kaneee",
+        "region": "北海道",
+        "tags": [
+            "POP YOURS",
+            "New Wave"
+        ],
+        "bio": "ラップ歴わずかでSTUTSに見出されPOP YOURS出演を果たしたシンデレラボーイ。",
+        "discography": [
+            "Canvas"
+        ],
+        "social": {},
+        "image": "/images/rappers/kaneee.jpg"
+    },
+    {
+        "id": "46",
+        "name": "JUMADIBA",
+        "region": "東京都",
+        "tags": [
+            "UK Garage",
+            "Grime",
+            "POP YOURS",
+            "Alternative",
+            "Drill"
+        ],
+        "bio": "UKガラージやグライムを取り入れた最新鋭のスタイル。東京都を拠点に活動するラッパー。 UK Garage、Grime、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Kusabi"
+        ],
+        "social": {},
+        "image": "/images/rappers/jumadiba.jpg"
+    },
+    {
+        "id": "47",
+        "name": "kZm",
+        "region": "東京都",
+        "tags": [
+            "YENTOWN",
+            "Neo Tokyo",
+            "POP YOURS",
+            "Alternative",
+            "Trap"
+        ],
+        "bio": "YENTOWN。常に新しいサウンドを提示するトレンドセッター。東京都を拠点に活動するラッパー。 YENTOWN、Neo Tokyo、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "DIMENSION"
+        ],
+        "social": {},
+        "image": "/images/rappers/kZm.jpg"
+    },
+    {
+        "id": "48",
+        "name": "PETZ",
+        "region": "東京都",
+        "tags": [
+            "YENTOWN",
+            "Cloud Rap",
+            "Trap"
+        ],
+        "bio": "YENTOWN。浮遊感のあるラップ。東京都を拠点に活動するラッパー。 YENTOWN、Cloud Rap、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/PETZ.jpg"
+    },
+    {
+        "id": "49",
+        "name": "JNKMN",
+        "region": "東京都",
+        "tags": [
+            "YENTOWN",
+            "Heavy"
+        ],
+        "bio": "YENTOWN。重厚なラップ。東京都を拠点に活動するラッパー。 YENTOWN、Heavyなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/JNKMN.jpg"
+    },
+    {
+        "id": "50",
+        "name": "Awich",
+        "region": "沖縄県",
+        "tags": [
+            "Queen",
+            "POP YOURS",
+            "Trap",
+            "YENTOWN"
+        ],
+        "bio": "沖縄出身。東京のクイーン。POP YOURSヘッドライナー。 Queen、POP YOURS、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Queendom"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Awich"
+    },
+    {
+        "id": "51",
+        "name": "IO",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN",
+            "Stylish",
+            "POP YOURS",
+            "Boom Bap"
+        ],
+        "bio": "KANDYTOWN。スタイリッシュなラップ。東京都を拠点に活動するラッパー。 KANDYTOWN、Stylish、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Soul Long"
+        ],
+        "social": {},
+        "image": "/images/rappers/IO.jpg"
+    },
+    {
+        "id": "52",
+        "name": "KEIJU",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN",
+            "Melodic",
+            "POP YOURS",
+            "Pop"
+        ],
+        "bio": "KANDYTOWN。メロディアスなヒット曲多数。東京都を拠点に活動するラッパー。 KANDYTOWN、Melodic、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "T.A.T.O."
+        ],
+        "social": {},
+        "image": "/images/rappers/KEIJU.jpg"
+    },
+    {
+        "id": "53",
+        "name": "Gottz",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN",
+            "Trap"
+        ],
+        "bio": "KANDYTOWN。ライブでの盛り上がりは随一。東京都を拠点に活動するラッパー。 KANDYTOWN、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Gottz.jpg"
+    },
+    {
+        "id": "54",
+        "name": "MUD",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN",
+            "Reggae"
+        ],
+        "bio": "KANDYTOWN。レゲエのエッセンス。東京都を拠点に活動するラッパー。 KANDYTOWN、Reggaeなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MUD"
+    },
+    {
+        "id": "55",
+        "name": "Hideyoshi",
+        "region": "東京都",
+        "tags": [
+            "Tokyo Young Vision",
+            "Emotional",
+            "Emo",
+            "Melodic"
+        ],
+        "bio": "Tokyo Young Vision。エモーショナルな楽曲。東京都を拠点に活動するラッパー。 Tokyo Young Vision、Emotional、Emoなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Dead End Adventure"
+        ],
+        "social": {},
+        "image": "/images/rappers/Hideyoshi.jpg"
+    },
+    {
+        "id": "56",
+        "name": "Ralph",
+        "region": "神奈川県",
+        "tags": [
+            "Grime",
+            "Power",
+            "POP YOURS",
+            "Drill",
+            "Hard"
+        ],
+        "bio": "UKグライムを日本で体現する。神奈川県を拠点に活動するラッパー。 Grime、Power、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "BLACK BANDANA"
+        ],
+        "social": {},
+        "image": "/images/rappers/ralph.jpg"
+    },
+    {
+        "id": "57",
+        "name": "BIM",
+        "region": "東京都",
+        "tags": [
+            "CreativeDrugStore",
+            "Chill"
+        ],
+        "bio": "CreativeDrugStore。リラックスした雰囲気。東京都を拠点に活動するラッパー。 CreativeDrugStore、Chillなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "The Beam"
+        ],
+        "social": {},
+        "image": "/images/rappers/BIM.jpg"
+    },
+    {
+        "id": "58",
+        "name": "VaVa",
+        "region": "東京都",
+        "tags": [
+            "CreativeDrugStore",
+            "Producer",
+            "Chill"
+        ],
+        "bio": "ビートメイクもこなす奇才。東京都を拠点に活動するラッパー。 CreativeDrugStore、Producer、Chillなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "VVORLD"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=VaVa"
+    },
+    {
+        "id": "59",
+        "name": "in-d",
+        "region": "東京都",
+        "tags": [
+            "CreativeDrugStore",
+            "Chill"
+        ],
+        "bio": "THE OTOGIBANASHI'S。東京都を拠点に活動するラッパー。 CreativeDrugStore、Chillなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=in-d"
+    },
+    {
+        "id": "60",
+        "name": "JUBEE",
+        "region": "東京都",
+        "tags": [
+            "CreativeDrugStore",
+            "Rock"
+        ],
+        "bio": "ミクスチャーロックとの融合。東京都を拠点に活動するラッパー。 CreativeDrugStore、Rockなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=JUBEE"
+    },
+    {
+        "id": "61",
+        "name": "PUNPEE",
+        "region": "東京都",
+        "tags": [
+            "PSG",
+            "Legend",
+            "Subculture",
+            "Producer",
+            "Alternative",
+            "Summit"
+        ],
+        "bio": "板橋出身。シーンの重要人物。 PSG、Legend、Subcultureなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [
+            "MODERN TIMES"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=PUNPEE"
+    },
+    {
+        "id": "62",
+        "name": "5lack",
+        "region": "東京都",
+        "tags": [
+            "PSG",
+            "Genius"
+        ],
+        "bio": "PUNPEEの弟。天才的なグルーヴ。東京都を拠点に活動するラッパー。 PSG、Geniusなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "My Space"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=5lack"
+    },
+    {
+        "id": "63",
+        "name": "ZORN",
+        "region": "東京都",
+        "tags": [
+            "Lyrical",
+            "Boom Bap",
+            "Family"
+        ],
+        "bio": "葛飾区出身。生活を歌う。 Lyrical、Boom Bap、Familyなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [
+            "新小岩"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=ZORN"
+    },
+    {
+        "id": "64",
+        "name": "SALU",
+        "region": "東京都",
+        "tags": [
+            "Fluent"
+        ],
+        "bio": "日本語と英語を自由に行き来する。東京都を拠点に活動するラッパー。 Fluentなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SALU"
+    },
+    {
+        "id": "65",
+        "name": "AKLO",
+        "region": "東京都",
+        "tags": [
+            "Lyrical"
+        ],
+        "bio": "高度なラップスキル。東京都を拠点に活動するラッパー。 Lyricalなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=AKLO"
+    },
+    {
+        "id": "66",
+        "name": "KOHH",
+        "region": "東京都",
+        "tags": [
+            "Legend",
+            "Trap",
+            "Artistic"
+        ],
+        "bio": "世界的な影響力を持つ。現在は千葉雄喜。東京都を拠点に活動するラッパー。 Legend、Trap、Artisticなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "MONOCHROME"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KOHH"
+    },
+    {
+        "id": "67",
+        "name": "Peterparker69",
+        "region": "東京都",
+        "tags": [
+            "Hyperpop",
+            "Example",
+            "POP YOURS"
+        ],
+        "bio": "JillianとY ohtrixpointneverによるデュオ。東京都を拠点に活動するラッパー。 Hyperpop、Example、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Peterparker69"
+    },
+    {
+        "id": "68",
+        "name": "STARKIDS",
+        "region": "東京都",
+        "tags": [
+            "Hyperpop",
+            "Group",
+            "POP YOURS"
+        ],
+        "bio": "多国籍クリエイティブ集団。ハイパーポップ。東京都を拠点に活動するラッパー。 Hyperpop、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "POP"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=STARKIDS"
+    },
+    {
+        "id": "69",
+        "name": "Tokyo Young Vision",
+        "region": "東京都",
+        "tags": [
+            "Group",
+            "Trap",
+            "POP YOURS"
+        ],
+        "bio": "Hideyoshiらが所属するクルー。東京都を拠点に活動するラッパー。 Trap、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Tokyo%20Young%20Vision"
+    },
+    {
+        "id": "70",
+        "name": "ShowyVICTOR",
+        "region": "東京都",
+        "tags": [
+            "Showy",
+            "New Wave",
+            "Trap"
+        ],
+        "bio": "Showyのメンバー。東京都を拠点に活動するラッパー。 Showy、New Wave、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/ShowyVICTOR.jpg"
+    },
+    {
+        "id": "71",
+        "name": "Worldwide Skippa",
+        "region": "愛知県",
+        "tags": [
+            "Skippa",
+            "AH1"
+        ],
+        "bio": "AH1出演。強烈なキャラクター。愛知県を拠点に活動するラッパー。 Skippa、AH1などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/worldwide_skippa.jpg"
+    },
+    {
+        "id": "72",
+        "name": "kkeinflo",
+        "region": "沖縄県",
+        "tags": [
+            "New Wave",
+            "Melodic"
+        ],
+        "bio": "SoundCloudで話題。沖縄県を拠点に活動するラッパー。 New Wave、Melodicなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=kkeinflo"
+    },
+    {
+        "id": "73",
+        "name": "JMK",
+        "region": "東京都",
+        "tags": [
+            "Drill",
+            "Dark"
+        ],
+        "bio": "東京ドリルシーン。東京都を拠点に活動するラッパー。 Drill、Darkなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=JMK"
+    },
+    {
+        "id": "74",
+        "name": "Bene Baby",
+        "region": "東京都",
+        "tags": [
+            "Kawaii",
+            "Trap"
+        ],
+        "bio": "ヒーローに憧れる独特の世界観。東京都を拠点に活動するラッパー。 Kawaii、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Bene Baby"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Bene%20Baby"
+    },
+    {
+        "id": "75",
+        "name": "Skaai",
+        "region": "東京都",
+        "tags": [
+            "Intelligent",
+            "POP YOURS",
+            "Lyrical",
+            "Academic"
+        ],
+        "bio": "アメリカ育ち。インテリジェンスなラップ。東京都を拠点に活動するラッパー。 Intelligent、POP YOURS、Lyricalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "BEANIE"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Skaai"
+    },
+    {
+        "id": "76",
+        "name": "Bleecker Chrome",
+        "region": "東京都",
+        "tags": [
+            "R&B",
+            "Rap"
+        ],
+        "bio": "洗練されたサウンド。東京都を拠点に活動するラッパー。 R&B、Rapなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Bleecker%20Chrome"
+    },
+    {
+        "id": "77",
+        "name": "Yvng Patra",
+        "region": "新潟県",
+        "tags": [
+            "Stylish",
+            "Dark",
+            "POP YOURS"
+        ],
+        "bio": "クールなトラップスタイル。新潟県を拠点に活動するラッパー。 Stylish、Dark、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "20"
+        ],
+        "social": {},
+        "image": "/images/rappers/yvng_patra.jpg"
+    },
+    {
+        "id": "78",
+        "name": "Xansei",
+        "region": "東京都",
+        "tags": [
+            "Producer",
+            "Rap"
+        ],
+        "bio": "海外品質のトラック。東京都を拠点に活動するラッパー。 Producer、Rapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Xansei"
+    },
+    {
+        "id": "79",
+        "name": "Hezron",
+        "region": "神奈川県",
+        "tags": [
+            "Rapstar Finalist",
+            "Trap",
+            "Melodic"
+        ],
+        "bio": "低音ボイスが魅力。RAPSTARファイナリスト。神奈川県を拠点に活動するラッパー。 Rapstar Finalist、Trap、Melodicなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Hezron.jpg"
+    },
+    {
+        "id": "80",
+        "name": "valknee",
+        "region": "東京都",
+        "tags": [
+            "Zoomgals"
+        ],
+        "bio": "K-POPロジックを取り入れたスタイル。東京都を拠点に活動するラッパー。 Zoomgalsなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=valknee"
+    },
+    {
+        "id": "81",
+        "name": "Marukido",
+        "region": "東京都",
+        "tags": [
+            "Zoomgals"
+        ],
+        "bio": "サブカルチャー要素。東京都を拠点に活動するラッパー。 Zoomgalsなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Marukido"
+    },
+    {
+        "id": "82",
+        "name": "Haruko Tajima",
+        "region": "東京都",
+        "tags": [
+            "Zoomgals"
+        ],
+        "bio": "ニューウェーブギャル。東京都を拠点に活動するラッパー。 Zoomgalsなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Haruko%20Tajima"
+    },
+    {
+        "id": "83",
+        "name": "AkkoGorilla",
+        "region": "東京都",
+        "tags": [
+            "Feminist"
+        ],
+        "bio": "パワフルなメッセージ。東京都を拠点に活動するラッパー。 Feministなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=AkkoGorilla"
+    },
+    {
+        "id": "84",
+        "name": "KIKUMARU",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN"
+        ],
+        "bio": "KANDYTOWNメンバー。東京都を拠点に活動するラッパー。 KANDYTOWNなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KIKUMARU"
+    },
+    {
+        "id": "85",
+        "name": "Dony Joint",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN"
+        ],
+        "bio": "KANDYTOWNメンバー。東京都を拠点に活動するラッパー。 KANDYTOWNなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Dony%20Joint"
+    },
+    {
+        "id": "86",
+        "name": "Neetz",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN"
+        ],
+        "bio": "サウンドの要。東京都を拠点に活動するラッパー。 KANDYTOWNなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Neetz"
+    },
+    {
+        "id": "87",
+        "name": "Holly Q",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN",
+            "Boom Bap"
+        ],
+        "bio": "俳優・上杉柊平。東京都を拠点に活動するラッパー。 KANDYTOWN、Boom Bapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Holly%20Q"
+    },
+    {
+        "id": "88",
+        "name": "BSC",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN"
+        ],
+        "bio": "KANDYTOWNメンバー。東京都を拠点に活動するラッパー。 KANDYTOWNなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=BSC"
+    },
+    {
+        "id": "89",
+        "name": "Minnesotah",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN"
+        ],
+        "bio": "DJ。東京都を拠点に活動するラッパー。 KANDYTOWNなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Minnesotah"
+    },
+    {
+        "id": "90",
+        "name": "MASATO",
+        "region": "東京都",
+        "tags": [
+            "KANDYTOWN"
+        ],
+        "bio": "KANDYTOWNメンバー。東京都を拠点に活動するラッパー。 KANDYTOWNなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MASATO"
+    },
+    {
+        "id": "91",
+        "name": "Novel Core",
+        "region": "東京都",
+        "tags": [
+            "BMSG",
+            "Major"
+        ],
+        "bio": "メジャーシーンで活躍。東京都を拠点に活動するラッパー。 BMSG、Majorなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Novel%20Core"
+    },
+    {
+        "id": "92",
+        "name": "edhiii boi",
+        "region": "東京都",
+        "tags": [
+            "BMSG",
+            "High School Rap"
+        ],
+        "bio": "高校生ラッパー。東京都を拠点に活動するラッパー。 BMSG、High School Rapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=edhiii%20boi"
+    },
+    {
+        "id": "93",
+        "name": "Amateras",
+        "region": "東京都",
+        "tags": [
+            "Rich"
+        ],
+        "bio": "金持ちキャラ。東京都を拠点に活動するラッパー。 Richなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Amateras"
+    },
+    {
+        "id": "94",
+        "name": "Gokou Kuyt",
+        "region": "東京都",
+        "tags": [
+            "Otaku",
+            "Cute"
+        ],
+        "bio": "アニメ・ゲームの世界観。東京都を拠点に活動するラッパー。 Otaku、Cuteなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Gokou%20Kuyt"
+    },
+    {
+        "id": "95",
+        "name": "who28",
+        "region": "東京都",
+        "tags": [
+            "Emotional"
+        ],
+        "bio": "エモーショナルな楽曲。東京都を拠点に活動するラッパー。 Emotionalなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=who28"
+    },
+    {
+        "id": "96",
+        "name": "Kenayeboi",
+        "region": "東京都",
+        "tags": [
+            "Ambition"
+        ],
+        "bio": "期待の若手。東京都を拠点に活動するラッパー。 Ambitionなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Kenayeboi"
+    },
+    {
+        "id": "97",
+        "name": "RYOH",
+        "region": "東京都",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "東京の若手。東京都を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=RYOH"
+    },
+    {
+        "id": "98",
+        "name": "JUA",
+        "region": "東京都",
+        "tags": [
+            "Model"
+        ],
+        "bio": "モデルとしても活動。東京都を拠点に活動するラッパー。 Modelなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=JUA"
+    },
+    {
+        "id": "99",
+        "name": "Tohji",
+        "region": "東京都",
+        "tags": [
+            "Mall Boyz",
+            "Icon",
+            "POP YOURS",
+            "New Wave",
+            "Hyperpop"
+        ],
+        "bio": "圧倒的なカリスマ性。東京都を拠点に活動するラッパー。 Mall Boyz、Icon、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Angel"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Tohji"
+    },
+    {
+        "id": "100",
+        "name": "gummyboy",
+        "region": "東京都",
+        "tags": [
+            "Mall Boyz",
+            "New Wave"
+        ],
+        "bio": "メロウなスタイル。東京都を拠点に活動するラッパー。 Mall Boyz、New Waveなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=gummyboy"
+    },
+    {
+        "id": "101",
+        "name": "Stei",
+        "region": "東京都",
+        "tags": [
+            "Mall Boyz"
+        ],
+        "bio": "プロデューサー。東京都を拠点に活動するラッパー。 Mall Boyzなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Stei"
+    },
+    {
+        "id": "102",
+        "name": "Yaona Sui",
+        "region": "東京都",
+        "tags": [
+            "Mall Boyz"
+        ],
+        "bio": "Mall Boyz周辺。東京都を拠点に活動するラッパー。 Mall Boyzなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Yaona%20Sui"
+    },
+    {
+        "id": "103",
+        "name": "Salvador Mani",
+        "region": "東京都",
+        "tags": [
+            "Trap"
+        ],
+        "bio": "独自のトラップ。東京都を拠点に活動するラッパー。 Trapなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Salvador%20Mani"
+    },
+    {
+        "id": "104",
+        "name": "Squash Squad",
+        "region": "東京都",
+        "tags": [
+            "Trap",
+            "Legend"
+        ],
+        "bio": "トラップの先駆者。東京都を拠点に活動するラッパー。 Trap、Legendなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Squash%20Squad"
+    },
+    {
+        "id": "105",
+        "name": "VITO FOCCACIO",
+        "region": "東京都",
+        "tags": [
+            "Squash Squad"
+        ],
+        "bio": "Squash Squadメンバー。東京都を拠点に活動するラッパー。 Squash Squadなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=VITO%20FOCCACIO"
+    },
+    {
+        "id": "106",
+        "name": "Mummy-D",
+        "region": "東京都",
+        "tags": [
+            "RHYMESTER"
+        ],
+        "bio": "ベテラン。東京都を拠点に活動するラッパー。 RHYMESTERなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Mummy-D"
+    },
+    {
+        "id": "107",
+        "name": "ZEEBRA",
+        "region": "東京都",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "日本のヒップホップの父。東京都を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=ZEEBRA"
+    },
+    {
+        "id": "108",
+        "name": "T-Pablow",
+        "region": "神奈川県",
+        "tags": [
+            "BAD HOP",
+            "AH1",
+            "Trap",
+            "Lyrical"
+        ],
+        "bio": "川崎出身。BAD HOPリーダー。AH1ヘッドライナー。 BAD HOP、AH1、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Mobb Life"
+        ],
+        "social": {},
+        "image": "/images/rappers/t-pabrow.jpg"
+    },
+    {
+        "id": "109",
+        "name": "YZERR",
+        "region": "神奈川県",
+        "tags": [
+            "BAD HOP",
+            "POP YOURS",
+            "Trap",
+            "Lyrical"
+        ],
+        "bio": "川崎出身。BAD HOPの頭脳。 BAD HOP、POP YOURS、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Rich or Die"
+        ],
+        "social": {},
+        "image": "/images/rappers/YZERR.jpg"
+    },
+    {
+        "id": "110",
+        "name": "Benjazzy",
+        "region": "神奈川県",
+        "tags": [
+            "BAD HOP",
+            "Lyrical",
+            "Drill",
+            "Skill"
+        ],
+        "bio": "随一のラップスキル。神奈川県を拠点に活動するラッパー。 BAD HOP、Lyrical、Drillなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/benjazzy.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Tiji Jojo",
+        "region": "神奈川県",
+        "tags": [
+            "BAD HOP",
+            "Melodic"
+        ],
+        "bio": "メロディアスなフロー。神奈川県を拠点に活動するラッパー。 BAD HOP、Melodicなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Tiji_Jojo.jpg"
+    },
+    {
+        "id": "112",
+        "name": "Bark",
+        "region": "神奈川県",
+        "tags": [
+            "BAD HOP"
+        ],
+        "bio": "BAD HOPメンバー。神奈川県を拠点に活動するラッパー。 BAD HOPなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Bark.jpg"
+    },
+    {
+        "id": "113",
+        "name": "G-K.I.D",
+        "region": "神奈川県",
+        "tags": [
+            "BAD HOP"
+        ],
+        "bio": "BAD HOPメンバー。神奈川県を拠点に活動するラッパー。 BAD HOPなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/G-kid.jpg"
+    },
+    {
+        "id": "114",
+        "name": "Vingo",
+        "region": "神奈川県",
+        "tags": [
+            "BAD HOP"
+        ],
+        "bio": "BAD HOPメンバー。神奈川県を拠点に活動するラッパー。 BAD HOPなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/VINGO.jpg"
+    },
+    {
+        "id": "115",
+        "name": "Yellow Pato",
+        "region": "神奈川県",
+        "tags": [
+            "BAD HOP",
+            "Melodic"
+        ],
+        "bio": "BAD HOPメンバー。神奈川県を拠点に活動するラッパー。 BAD HOP、Melodicなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/yellow_pato.jpg"
+    },
+    {
+        "id": "116",
+        "name": "LEX",
+        "region": "神奈川県",
+        "tags": [
+            "New Wave",
+            "POP YOURS",
+            "Hyperpop",
+            "Melodic"
+        ],
+        "bio": "湘南出身。爆発的な人気。POP YOURS出演。 New Wave、POP YOURS、Hyperpopなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "LiFE"
+        ],
+        "social": {},
+        "image": "/images/rappers/LEX.jpg"
+    },
+    {
+        "id": "117",
+        "name": "JP THE WAVY",
+        "region": "神奈川県",
+        "tags": [
+            "POP YOURS",
+            "Trap",
+            "Fashionable",
+            "Dance"
+        ],
+        "bio": "世界基準のヒットメーカー。神奈川県を拠点に活動するラッパー。 POP YOURS、Trap、Fashionableなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "LIFE IS WAVY"
+        ],
+        "social": {},
+        "image": "/images/rappers/jp_the_wavy.jpg"
+    },
+    {
+        "id": "118",
+        "name": "Leon Fanourakis",
+        "region": "神奈川県",
+        "tags": [
+            "Trap",
+            "Hard"
+        ],
+        "bio": "日本語ラップの枠を超える。神奈川県を拠点に活動するラッパー。 Trap、Hardなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "T-Rex"
+        ],
+        "social": {},
+        "image": "/images/rappers/Leon_Fanourakis.jpg"
+    },
+    {
+        "id": "119",
+        "name": "SANTAWORLDVIEW",
+        "region": "神奈川県",
+        "tags": [
+            "Trap",
+            "Technical"
+        ],
+        "bio": "高いエネルギー。神奈川県を拠点に活動するラッパー。 Trap、Technicalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/SANTAWORLDVIEW.jpg"
+    },
+    {
+        "id": "120",
+        "name": "LANA",
+        "region": "神奈川県",
+        "tags": [
+            "POP YOURS",
+            "R&B",
+            "Female",
+            "Pop"
+        ],
+        "bio": "湘南出身。圧倒的な歌唱力。POP YOURS出演。 POP YOURS、R&B、Femaleなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "TURN IT UP"
+        ],
+        "social": {},
+        "image": "/images/rappers/LANA.jpg"
+    },
+    {
+        "id": "121",
+        "name": "Only U",
+        "region": "神奈川県",
+        "tags": [
+            "Melodic",
+            "POP YOURS",
+            "New Wave",
+            "Hyperpop"
+        ],
+        "bio": "横浜出身。ポジティブなバイブス。 Melodic、POP YOURS、New Waveなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "POPCORN"
+        ],
+        "social": {},
+        "image": "/images/rappers/only_u.jpg"
+    },
+    {
+        "id": "122",
+        "name": "Yokosquad",
+        "region": "神奈川県",
+        "tags": [
+            "Trap",
+            "Squad"
+        ],
+        "bio": "横浜拠点のクルー。 Trap、Squadなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Yokosquad"
+    },
+    {
+        "id": "123",
+        "name": "Candee",
+        "region": "神奈川県",
+        "tags": [
+            "Self-Made",
+            "AH1"
+        ],
+        "bio": "川崎出身。AH1出演。 Self-Made、AH1などの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Candee.jpg"
+    },
+    {
+        "id": "124",
+        "name": "Carz",
+        "region": "神奈川県",
+        "tags": [
+            "Rapstar Finalist"
+        ],
+        "bio": "RAPSTARファイナリスト。神奈川県を拠点に活動するラッパー。 Rapstar Finalistなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/carz.jpg"
+    },
+    {
+        "id": "125",
+        "name": "JAKEN",
+        "region": "神奈川県",
+        "tags": [
+            "Reggae",
+            "Rap"
+        ],
+        "bio": "レゲエ・ラップ。神奈川県を拠点に活動するラッパー。 Reggae、Rapなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/JAKEN.jpg"
+    },
+    {
+        "id": "126",
+        "name": "OZROSAURUS",
+        "region": "神奈川県",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "横浜のレジェンド。神奈川県を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [
+            "ROLLIN' 045"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=OZROSAURUS"
+    },
+    {
+        "id": "127",
+        "name": "MACCHO",
+        "region": "神奈川県",
+        "tags": [
+            "OZROSAURUS"
+        ],
+        "bio": "ハマの大怪獣。神奈川県を拠点に活動するラッパー。 OZROSAURUSなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/MACCHO.jpg"
+    },
+    {
+        "id": "128",
+        "name": "dodo",
+        "region": "神奈川県",
+        "tags": [
+            "Geek"
+        ],
+        "bio": "自宅録音のヒットメーカー。神奈川県を拠点に活動するラッパー。 Geekなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [
+            "importance"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=dodo"
+    },
+    {
+        "id": "129",
+        "name": "SOTA",
+        "region": "神奈川県",
+        "tags": [
+            "BMSG",
+            "Dance"
+        ],
+        "bio": "BE:FIRSTメンバー。神奈川県を拠点に活動するラッパー。 BMSG、Danceなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SOTA"
+    },
+    {
+        "id": "130",
+        "name": "ASOBOiSM",
+        "region": "神奈川県",
+        "tags": [
+            "Female"
+        ],
+        "bio": "OLラッパー。神奈川県を拠点に活動するラッパー。 Femaleなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=ASOBOiSM"
+    },
+    {
+        "id": "131",
+        "name": "KOWICHI",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "ヒットメーカー。神奈川県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KOWICHI"
+    },
+    {
+        "id": "132",
+        "name": "DJ TY-KOH",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "AH1 MC。神奈川県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=DJ%20TY-KOH"
+    },
+    {
+        "id": "133",
+        "name": "NORIKIYO",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "ストーリーテラー。神奈川県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [
+            "EXIT"
+        ],
+        "social": {},
+        "image": "/images/rappers/norikiyo.jpg"
+    },
+    {
+        "id": "134",
+        "name": "BRON-K",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "天才的なメロディセンス。神奈川県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [
+            "奇妙な果実"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=BRON-K"
+    },
+    {
+        "id": "135",
+        "name": "ICE BAHN",
+        "region": "神奈川県",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "FORK擁するグループ。韻へのこだわり。神奈川県を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "LEGACY"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=ICE%20BAHN"
+    },
+    {
+        "id": "136",
+        "name": "DINARY DELTA FORCE",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "藤沢MOSS VILLAGE。神奈川県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [
+            "SOUNDTRACK TO THE BED TOWN"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=DINARY%20DELTA%20FORCE"
+    },
+    {
+        "id": "137",
+        "name": "BLAHRMY",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "SHEEF THE 3RD, MILES WORD。神奈川県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=BLAHRMY"
+    },
+    {
+        "id": "138",
+        "name": "USU",
+        "region": "新潟県",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "新潟のシーンを支える。新潟県を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=USU"
+    },
+    {
+        "id": "139",
+        "name": "KW5SHINE",
+        "region": "新潟県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "新潟拠点。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KW5SHINE"
+    },
+    {
+        "id": "140",
+        "name": "NAO",
+        "region": "富山県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "富山代表。富山県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=NAO"
+    },
+    {
+        "id": "141",
+        "name": "addginjahzz",
+        "region": "石川県",
+        "tags": [
+            "Group"
+        ],
+        "bio": "石川拠点。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=addginjahzz"
+    },
+    {
+        "id": "142",
+        "name": "YOUNG BIZZY",
+        "region": "石川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "金沢拠点。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=YOUNG%20BIZZY"
+    },
+    {
+        "id": "143",
+        "name": "EL REY",
+        "region": "福井県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "福井代表。福井県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=EL%20REY"
+    },
+    {
+        "id": "144",
+        "name": "田我流",
+        "region": "山梨県",
+        "tags": [
+            "Stillichimiya"
+        ],
+        "bio": "生活とユーモア。山梨県を拠点に活動するラッパー。 Stillichimiyaなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "B級映画のように2"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E7%94%B0%E6%88%91%E6%B5%81"
+    },
+    {
+        "id": "145",
+        "name": "Young Hastle",
+        "region": "山梨県",
+        "tags": [
+            "Muscle"
+        ],
+        "bio": "筋肉ラッパー。山梨県を拠点に活動するラッパー。 Muscleなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Young%20Hastle"
+    },
+    {
+        "id": "146",
+        "name": "stillichimiya",
+        "region": "山梨県",
+        "tags": [
+            "Group",
+            "Legend"
+        ],
+        "bio": "一宮町のクルー。Big Ben, MMM, Mr.麿。山梨県を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=stillichimiya"
+    },
+    {
+        "id": "147",
+        "name": "Wura",
+        "region": "長野県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "長野のベテラン。長野県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Wura"
+    },
+    {
+        "id": "148",
+        "name": "Rawoku",
+        "region": "長野県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "長野の次世代。長野県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Rawoku"
+    },
+    {
+        "id": "149",
+        "name": "HARD VERK",
+        "region": "岐阜県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "岐阜を支える。岐阜県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=HARD%20VERK"
+    },
+    {
+        "id": "150",
+        "name": "TOSHI MAMUSH",
+        "region": "岐阜県",
+        "tags": [
+            "Street"
+        ],
+        "bio": "岐阜のストリート。岐阜県を拠点に活動するラッパー。 Streetなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=TOSHI%20MAMUSH"
+    },
+    {
+        "id": "151",
+        "name": "Elle Teresa",
+        "region": "静岡県",
+        "tags": [
+            "Kawaii",
+            "POP YOURS"
+        ],
+        "bio": "沼津出身。世界的にも注目されるフィメールラッパー。POP YOURS出演。 Kawaii、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Kawaii Bubbly Lovely"
+        ],
+        "social": {},
+        "image": "/images/rappers/elle.jpg"
+    },
+    {
+        "id": "152",
+        "name": "Shoco",
+        "region": "静岡県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "静岡拠点。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Shoco"
+    },
+    {
+        "id": "153",
+        "name": "CRAY-G",
+        "region": "静岡県",
+        "tags": [
+            "West Coast"
+        ],
+        "bio": "静岡ウェッサイ。静岡県を拠点に活動するラッパー。 West Coastなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=CRAY-G"
+    },
+    {
+        "id": "154",
+        "name": "¥ellow Bucks",
+        "region": "愛知県",
+        "tags": [
+            "TTTG",
+            "AH1"
+        ],
+        "bio": "高山出身だが名古屋拠点。現在のシーンのトップランナー。AH1ヘッドライナー。 TTTG、AH1などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Jungle"
+        ],
+        "social": {},
+        "image": "/images/rappers/yellow_bucks.jpg"
+    },
+    {
+        "id": "155",
+        "name": "AK-69",
+        "region": "愛知県",
+        "tags": [
+            "Legend",
+            "Gangsta",
+            "Nagoya"
+        ],
+        "bio": "アリーナ級アーティスト。愛知県を拠点に活動するラッパー。 Legend、Gangsta、Nagoyaなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "The Independent King"
+        ],
+        "social": {},
+        "image": "/images/rappers/AK-69.jpg"
+    },
+    {
+        "id": "156",
+        "name": "TOKONA-X",
+        "region": "愛知県",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "伝説のラッパー。愛知県を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [
+            "トウカイXテイオー"
+        ],
+        "social": {},
+        "image": "/images/rappers/TOKONA-X.jpg"
+    },
+    {
+        "id": "157",
+        "name": "Campanella",
+        "region": "愛知県",
+        "tags": [
+            "Komaki",
+            "Abstract",
+            "POP YOURS",
+            "Alternative",
+            "Artistic"
+        ],
+        "bio": "小牧出身。独創的なスタイル。 Komaki、Abstract、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "PEASTA"
+        ],
+        "social": {},
+        "image": "/images/rappers/Campanella.jpg"
+    },
+    {
+        "id": "158",
+        "name": "C.O.S.A.",
+        "region": "愛知県",
+        "tags": [
+            "AH1"
+        ],
+        "bio": "知立出身。無骨なリリック。 AH1などの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [
+            "Chiryu-Yonkers"
+        ],
+        "social": {},
+        "image": "/images/rappers/COSA.jpg"
+    },
+    {
+        "id": "159",
+        "name": "MaRI",
+        "region": "愛知県",
+        "tags": [
+            "Brasil",
+            "AH1",
+            "Gangsta",
+            "Female",
+            "Trap"
+        ],
+        "bio": "ブラジルルーツ。AH1出演。愛知県を拠点に活動するラッパー。 Brasil、AH1、Gangstaなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Mari.jpg"
+    },
+    {
+        "id": "160",
+        "name": "homarelanka",
+        "region": "愛知県",
+        "tags": [
+            "POP YOURS"
+        ],
+        "bio": "名古屋のアンダーグラウンド。POP YOURS出演。愛知県を拠点に活動するラッパー。 POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=homarelanka"
+    },
+    {
+        "id": "161",
+        "name": "NEI",
+        "region": "愛知県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "ドープなスタイル。愛知県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=NEI"
+    },
+    {
+        "id": "162",
+        "name": "Andre",
+        "region": "愛知県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "若手実力派。愛知県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Andre"
+    },
+    {
+        "id": "163",
+        "name": "RYOKI",
+        "region": "愛知県",
+        "tags": [
+            "BMSG"
+        ],
+        "bio": "BE:FIRSTメンバー。愛知県を拠点に活動するラッパー。 BMSGなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=RYOKI"
+    },
+    {
+        "id": "164",
+        "name": "PERSIA",
+        "region": "愛知県",
+        "tags": [
+            "Reggae",
+            "Rap"
+        ],
+        "bio": "圧倒的な歌唱力。愛知県を拠点に活動するラッパー。 Reggae、Rapなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=PERSIA"
+    },
+    {
+        "id": "165",
+        "name": "SOCKS",
+        "region": "愛知県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "独特のキャラ。愛知県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SOCKS"
+    },
+    {
+        "id": "166",
+        "name": "Crystal Boy",
+        "region": "愛知県",
+        "tags": [
+            "nobodyknows+"
+        ],
+        "bio": "「ココロオドル」。愛知県を拠点に活動するラッパー。 nobodyknows+などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Crystal%20Boy"
+    },
+    {
+        "id": "167",
+        "name": "G.CUE",
+        "region": "愛知県",
+        "tags": [
+            "Gangsta"
+        ],
+        "bio": "名古屋の重鎮。愛知県を拠点に活動するラッパー。 Gangstaなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=G.CUE"
+    },
+    {
+        "id": "168",
+        "name": "Mr.OZ",
+        "region": "愛知県",
+        "tags": [
+            "Gangsta"
+        ],
+        "bio": "低音ボイス。愛知県を拠点に活動するラッパー。 Gangstaなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Mr.OZ"
+    },
+    {
+        "id": "169",
+        "name": "YUKSTA-ILL",
+        "region": "三重県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "圧倒的なスキル。三重県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [
+            "NEO TOKAI ON THE LINE"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=YUKSTA-ILL"
+    },
+    {
+        "id": "170",
+        "name": "Kick a Show",
+        "region": "三重県",
+        "tags": [
+            "Singer"
+        ],
+        "bio": "歌とラップの融合。三重県を拠点に活動するラッパー。 Singerなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Kick%20a%20Show"
+    },
+    {
+        "id": "171",
+        "name": "SHY-PK",
+        "region": "滋賀県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "滋賀拠点。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SHY-PK"
+    },
+    {
+        "id": "172",
+        "name": "SNIPE",
+        "region": "滋賀県",
+        "tags": [
+            "Underground"
+        ],
+        "bio": "実力派。滋賀県を拠点に活動するラッパー。 Undergroundなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SNIPE"
+    },
+    {
+        "id": "173",
+        "name": "ANARCHY",
+        "region": "京都府",
+        "tags": [
+            "Legend",
+            "AH1",
+            "Gangsta",
+            "Kyoto"
+        ],
+        "bio": "レジェンド。AH1出演。京都府を拠点に活動するラッパー。 Legend、AH1、Gangstaなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Rob the World"
+        ],
+        "social": {},
+        "image": "/images/rappers/ANARCHY.jpg"
+    },
+    {
+        "id": "174",
+        "name": "Daichi Yamamoto",
+        "region": "京都府",
+        "tags": [
+            "Artistic",
+            "POP YOURS"
+        ],
+        "bio": "芸術的なセンス。POP YOURS出演。京都府を拠点に活動するラッパー。 Artistic、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "Andless"
+        ],
+        "social": {},
+        "image": "/images/rappers/Daichi_Yamamoto.jpg"
+    },
+    {
+        "id": "175",
+        "name": "Ruff Neck",
+        "region": "京都府",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "ANARCHYのクルー。京都府を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Ruff%20Neck"
+    },
+    {
+        "id": "176",
+        "name": "13ELL",
+        "region": "京都府",
+        "tags": [
+            "Club"
+        ],
+        "bio": "クラブヒット。京都府を拠点に活動するラッパー。 Clubなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=13ELL"
+    },
+    {
+        "id": "177",
+        "name": "孫GONG",
+        "region": "京都府",
+        "tags": [
+            "Gangsta"
+        ],
+        "bio": "ジャパニーズマゲニーズ。京都府を拠点に活動するラッパー。 Gangstaなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E5%AD%ABGONG"
+    },
+    {
+        "id": "178",
+        "name": "Ramasu",
+        "region": "京都府",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "京都の現場。京都府を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Ramasu"
+    },
+    {
+        "id": "179",
+        "name": "WILYWNKA",
+        "region": "大阪府",
+        "tags": [
+            "Hentai Shinshi",
+            "AH1",
+            "Mainstream"
+        ],
+        "bio": "変態紳士クラブ。トップスター。大阪府を拠点に活動するラッパー。 Hentai Shinshi、AH1、Mainstreamなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "PAUSE"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=WILYWNKA"
+    },
+    {
+        "id": "180",
+        "name": "Jin Dogg",
+        "region": "大阪府",
+        "tags": [
+            "Emotional",
+            "POP YOURS",
+            "AH1",
+            "Sad Mad Pure",
+            "Dirt",
+            "Hifumi"
+        ],
+        "bio": "生野出身。激しいライブパフォーマンス。POP YOURS出演。 Emotional、POP YOURS、AH1などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "SAD JAKE"
+        ],
+        "social": {},
+        "image": "/images/rappers/Jin_dogg.jpg"
+    },
+    {
+        "id": "181",
+        "name": "guca owl",
+        "region": "大阪府",
+        "tags": [
+            "Chill",
+            "POP YOURS",
+            "AH1"
+        ],
+        "bio": "東大阪出身。独特のグルーヴ。POP YOURS出演。 Chill、POP YOURS、AH1などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "ROBIN HOOD STREET"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=guca%20owl"
+    },
+    {
+        "id": "182",
+        "name": "RED EYE",
+        "region": "大阪府",
+        "tags": [
+            "POP YOURS",
+            "Reggae",
+            "Trap",
+            "High School Rap"
+        ],
+        "bio": "高校生ラップ選手権出身。POP YOURS出演。 POP YOURS、Reggae、Trapなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "LIVING"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=RED%20EYE"
+    },
+    {
+        "id": "183",
+        "name": "MC TYSON",
+        "region": "大阪府",
+        "tags": [
+            "AH1"
+        ],
+        "bio": "パワフルなラップ。AH1出演。大阪府を拠点に活動するラッパー。 AH1などの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MC%20TYSON"
+    },
+    {
+        "id": "184",
+        "name": "KVI BABA",
+        "region": "大阪府",
+        "tags": [
+            "Emotional",
+            "POP YOURS"
+        ],
+        "bio": "豊中出身。エモーショナルな楽曲。POP YOURS出演。 Emotional、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KVI%20BABA"
+    },
+    {
+        "id": "185",
+        "name": "MFS",
+        "region": "大阪府",
+        "tags": [
+            "Drill",
+            "POP YOURS"
+        ],
+        "bio": "「BOW」がヒット。POP YOURS出演。大阪府を拠点に活動するラッパー。 Drill、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MFS"
+    },
+    {
+        "id": "186",
+        "name": "Choppa Capone",
+        "region": "大阪府",
+        "tags": [
+            "POP YOURS"
+        ],
+        "bio": "西成スタイル。POP YOURS出演。大阪府を拠点に活動するラッパー。 POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Choppa%20Capone"
+    },
+    {
+        "id": "187",
+        "name": "VIGORMAN",
+        "region": "大阪府",
+        "tags": [
+            "Reggae",
+            "Melodic",
+            "Hentai Shinshi"
+        ],
+        "bio": "変態紳士クラブ。大阪府を拠点に活動するラッパー。 Reggae、Melodic、Hentai Shinshiなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=VIGORMAN"
+    },
+    {
+        "id": "188",
+        "name": "SHINGO★西成",
+        "region": "大阪府",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "西成の顔。大阪府を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SHINGO%E2%98%85%E8%A5%BF%E6%88%90"
+    },
+    {
+        "id": "189",
+        "name": "韻踏合組合",
+        "region": "大阪府",
+        "tags": [
+            "Legend",
+            "Hifumi"
+        ],
+        "bio": "大阪の重鎮。大阪府を拠点に活動するラッパー。 Legend、Hifumiなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E9%9F%BB%E8%B8%8F%E5%90%88%E7%B5%84%E5%90%88"
+    },
+    {
+        "id": "190",
+        "name": "JAGGLA",
+        "region": "大阪府",
+        "tags": [
+            "Tornado"
+        ],
+        "bio": "ジャパニーズマゲニーズ。大阪府を拠点に活動するラッパー。 Tornadoなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=JAGGLA"
+    },
+    {
+        "id": "191",
+        "name": "Cz TIGER",
+        "region": "大阪府",
+        "tags": [
+            "Tornado"
+        ],
+        "bio": "トラップスタイル。大阪府を拠点に活動するラッパー。 Tornadoなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Cz%20TIGER"
+    },
+    {
+        "id": "192",
+        "name": "S-kaine",
+        "region": "大阪府",
+        "tags": [
+            "Dark"
+        ],
+        "bio": "渋い声とビート選び。大阪府を拠点に活動するラッパー。 Darkなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=S-kaine"
+    },
+    {
+        "id": "193",
+        "name": "CYBER RUI",
+        "region": "大阪府",
+        "tags": [
+            "Cyber",
+            "POP YOURS"
+        ],
+        "bio": "サイバーな世界観。POP YOURS出演。大阪府を拠点に活動するラッパー。 Cyber、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=CYBER%20RUI"
+    },
+    {
+        "id": "194",
+        "name": "Taiyoh",
+        "region": "大阪府",
+        "tags": [
+            "MaisonDe",
+            "POP YOURS"
+        ],
+        "bio": "MaisonDe。POP YOURS出演。大阪府を拠点に活動するラッパー。 MaisonDe、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/taiyoh.jpg"
+    },
+    {
+        "id": "195",
+        "name": "lj",
+        "region": "大阪府",
+        "tags": [
+            "MaisonDe"
+        ],
+        "bio": "MaisonDe。大阪府を拠点に活動するラッパー。 MaisonDeなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/lj.jpg"
+    },
+    {
+        "id": "196",
+        "name": "Pune",
+        "region": "大阪府",
+        "tags": [
+            "MaisonDe"
+        ],
+        "bio": "MaisonDe。大阪府を拠点に活動するラッパー。 MaisonDeなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Pune"
+    },
+    {
+        "id": "197",
+        "name": "kojikoji",
+        "region": "大阪府",
+        "tags": [
+            "Singer"
+        ],
+        "bio": "客演多数。大阪府を拠点に活動するラッパー。 Singerなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=kojikoji"
+    },
+    {
+        "id": "198",
+        "name": "BASI",
+        "region": "大阪府",
+        "tags": [
+            "In-Sist",
+            "Chill"
+        ],
+        "bio": "韻シスト。大阪府を拠点に活動するラッパー。 In-Sist、Chillなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=BASI"
+    },
+    {
+        "id": "199",
+        "name": "TERRY THE AKI-06",
+        "region": "大阪府",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "裏庭スタイル。大阪府を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=TERRY%20THE%20AKI-06"
+    },
+    {
+        "id": "200",
+        "name": "Young Coco",
+        "region": "大阪府",
+        "tags": [
+            "Trap"
+        ],
+        "bio": "海外プロデューサーと共作。大阪府を拠点に活動するラッパー。 Trapなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/young_coco.jpg"
+    },
+    {
+        "id": "201",
+        "name": "Eric.B.Jr",
+        "region": "大阪府",
+        "tags": [
+            "Badass",
+            "AH1"
+        ],
+        "bio": "悪ガキスタイル。AH1出演。大阪府を拠点に活動するラッパー。 Badass、AH1などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Eric.B.Jr"
+    },
+    {
+        "id": "202",
+        "name": "REAL-T",
+        "region": "大阪府",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "リアルな言葉。大阪府を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=REAL-T"
+    },
+    {
+        "id": "203",
+        "name": "Umeda Cypher",
+        "region": "大阪府",
+        "tags": [
+            "Group"
+        ],
+        "bio": "梅田サイファー（KZ, peko, KBD, KennyDoes, R-指定, KOPERU）。高いスキル。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Umeda%20Cypher"
+    },
+    {
+        "id": "204",
+        "name": "Shurkn Pap",
+        "region": "兵庫県",
+        "tags": [
+            "MaisonDe",
+            "Melodic",
+            "Himeji"
+        ],
+        "bio": "姫路出身。バイラルヒット多数。 MaisonDe、Melodic、Himejiなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "The Paparazzi"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Shurkn%20Pap"
+    },
+    {
+        "id": "205",
+        "name": "week dudus",
+        "region": "兵庫県",
+        "tags": [
+            "POP YOURS",
+            "Fast",
+            "Technical"
+        ],
+        "bio": "姫路出身。変幻自在のフロウ。POP YOURS出演。 POP YOURS、Fast、Technicalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "VEGA"
+        ],
+        "social": {},
+        "image": "/images/rappers/week_dudus.jpg"
+    },
+    {
+        "id": "206",
+        "name": "Merry Delo",
+        "region": "兵庫県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "姫路出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Merry%20Delo"
+    },
+    {
+        "id": "207",
+        "name": "SNEEEZE",
+        "region": "兵庫県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "神戸の実力派。兵庫県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SNEEEZE"
+    },
+    {
+        "id": "208",
+        "name": "JINDOGG",
+        "region": "兵庫県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "尼崎レペゼン曲もあり。兵庫県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Jin_dogg.jpg"
+    },
+    {
+        "id": "209",
+        "name": "空音",
+        "region": "兵庫県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "「Hug」が大ヒット。兵庫県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E7%A9%BA%E9%9F%B3"
+    },
+    {
+        "id": "210",
+        "name": "GeG",
+        "region": "兵庫県",
+        "tags": [
+            "Producer"
+        ],
+        "bio": "変態紳士クラブ。兵庫県を拠点に活動するラッパー。 Producerなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=GeG"
+    },
+    {
+        "id": "211",
+        "name": "小林勝行",
+        "region": "兵庫県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "リアルな表現。兵庫県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E5%B0%8F%E6%9E%97%E5%8B%9D%E8%A1%8C"
+    },
+    {
+        "id": "212",
+        "name": "神門",
+        "region": "兵庫県",
+        "tags": [
+            "Poetry"
+        ],
+        "bio": "ポエトリースタイル。兵庫県を拠点に活動するラッパー。 Poetryなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E7%A5%9E%E9%96%80"
+    },
+    {
+        "id": "213",
+        "name": "HI-KING TAKASE",
+        "region": "奈良県",
+        "tags": [
+            "Lyrical"
+        ],
+        "bio": "独特のリズム感。奈良県を拠点に活動するラッパー。 Lyricalなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=HI-KING%20TAKASE"
+    },
+    {
+        "id": "214",
+        "name": "SPARKEY",
+        "region": "奈良県",
+        "tags": [
+            "MC Battle"
+        ],
+        "bio": "奈良のバトルMC。（今回は楽曲フォーカスだが奈良の代表枠として維持、楽曲もリリースあり）",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SPARKEY"
+    },
+    {
+        "id": "215",
+        "name": "DAISUKE",
+        "region": "和歌山県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "和歌山拠点。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=DAISUKE"
+    },
+    {
+        "id": "216",
+        "name": "OGK",
+        "region": "鳥取県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "山陰の重鎮。鳥取県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=OGK"
+    },
+    {
+        "id": "217",
+        "name": "SKRYU",
+        "region": "島根県",
+        "tags": [
+            "Melodic",
+            "Comedy",
+            "POP YOURS"
+        ],
+        "bio": "島根出身。キャッチーなメロディとユーモア。POP YOURS出演。 Melodic、Comedy、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "SCREW"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SKRYU"
+    },
+    {
+        "id": "218",
+        "name": "KOWREE",
+        "region": "島根県",
+        "tags": [
+            "Lyrical"
+        ],
+        "bio": "山陰の実力派。島根県を拠点に活動するラッパー。 Lyricalなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KOWREE"
+    },
+    {
+        "id": "219",
+        "name": "COJO",
+        "region": "島根県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "島根の若手。島根県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=COJO"
+    },
+    {
+        "id": "220",
+        "name": "紅桜",
+        "region": "岡山県",
+        "tags": [
+            "Enka"
+        ],
+        "bio": "津山出身。演歌のようなブルース。 Enkaなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [
+            "紅桜"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E7%B4%85%E6%A1%9C"
+    },
+    {
+        "id": "221",
+        "name": "YAS",
+        "region": "岡山県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "津山のボス。岡山県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=YAS"
+    },
+    {
+        "id": "222",
+        "name": "FEIDA-WAN",
+        "region": "岡山県",
+        "tags": [
+            "Spit"
+        ],
+        "bio": "スピッター。岡山県を拠点に活動するラッパー。 Spitなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=FEIDA-WAN"
+    },
+    {
+        "id": "223",
+        "name": "HANABI",
+        "region": "岡山県",
+        "tags": [
+            "Duo"
+        ],
+        "bio": "岡山拠点。 Duoなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=HANABI"
+    },
+    {
+        "id": "224",
+        "name": "DOUGH BOY",
+        "region": "広島県",
+        "tags": [
+            "West Coast"
+        ],
+        "bio": "広島ウェッサイ。広島県を拠点に活動するラッパー。 West Coastなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=DOUGH%20BOY"
+    },
+    {
+        "id": "225",
+        "name": "MULBE",
+        "region": "広島県",
+        "tags": [
+            "Boom Bap"
+        ],
+        "bio": "黒いグルーヴ。広島県を拠点に活動するラッパー。 Boom Bapなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MULBE"
+    },
+    {
+        "id": "226",
+        "name": "K-OUT",
+        "region": "広島県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "広島ストリート。広島県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=K-OUT"
+    },
+    {
+        "id": "227",
+        "name": "BUPPON",
+        "region": "山口県",
+        "tags": [
+            "Lyrical"
+        ],
+        "bio": "深いリリック。山口県を拠点に活動するラッパー。 Lyricalなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [
+            "蓄積タイムラグ"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=BUPPON"
+    },
+    {
+        "id": "228",
+        "name": "BEZALEL",
+        "region": "山口県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "山口拠点。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=BEZALEL"
+    },
+    {
+        "id": "229",
+        "name": "Watson",
+        "region": "徳島県",
+        "tags": [
+            "Real",
+            "POP YOURS",
+            "AH1",
+            "Lyrical",
+            "德島"
+        ],
+        "bio": "徳島出身。金なしコネなしからの成り上がり。POP YOURS出演。 Real、POP YOURS、AH1などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "FR FR"
+        ],
+        "social": {},
+        "image": "/images/rappers/watson.jpg"
+    },
+    {
+        "id": "230",
+        "name": "T-STONE",
+        "region": "徳島県",
+        "tags": [
+            "Voice"
+        ],
+        "bio": "ハスキーボイス。徳島県を拠点に活動するラッパー。 Voiceなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=T-STONE"
+    },
+    {
+        "id": "231",
+        "name": "KUYA MIGUEL",
+        "region": "香川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "香川の若手。香川県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=KUYA%20MIGUEL"
+    },
+    {
+        "id": "232",
+        "name": "MIC MASTER T",
+        "region": "香川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "香川のベテラン。香川県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MIC%20MASTER%20T"
+    },
+    {
+        "id": "233",
+        "name": "K-JAY",
+        "region": "愛媛県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "愛媛のMC。愛媛県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=K-JAY"
+    },
+    {
+        "id": "234",
+        "name": "Seven",
+        "region": "高知県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "高知拠点。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Seven"
+    },
+    {
+        "id": "235",
+        "name": "MP",
+        "region": "高知県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "高知のラッパー。高知県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MP"
+    },
+    {
+        "id": "236",
+        "name": "DADA",
+        "region": "福岡県",
+        "tags": [
+            "High School Rap",
+            "POP YOURS",
+            "AH1"
+        ],
+        "bio": "「High School Dropout」がヒット。POP YOURS、AH1出演。",
+        "discography": [
+            "Mine"
+        ],
+        "social": {},
+        "image": "/images/rappers/DADA.jpg"
+    },
+    {
+        "id": "237",
+        "name": "Deep Leaf",
+        "region": "福岡県",
+        "tags": [
+            "Group",
+            "POP YOURS"
+        ],
+        "bio": "福岡の若手クルー。POP YOURS出演。福岡県を拠点に活動するラッパー。 POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Deep%20Leaf"
+    },
+    {
+        "id": "238",
+        "name": "Rin音",
+        "region": "福岡県",
+        "tags": [
+            "Pop"
+        ],
+        "bio": "「snow jam」。福岡県を拠点に活動するラッパー。 Popなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Rin%E9%9F%B3"
+    },
+    {
+        "id": "239",
+        "name": "SHITAKILI IX",
+        "region": "福岡県",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "親不孝通りの伝説。福岡県を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SHITAKILI%20IX"
+    },
+    {
+        "id": "240",
+        "name": "FREEZ",
+        "region": "福岡県",
+        "tags": [
+            "Underground"
+        ],
+        "bio": "親不孝のアンダーグラウンドキング。福岡県を拠点に活動するラッパー。 Undergroundなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=FREEZ"
+    },
+    {
+        "id": "241",
+        "name": "Olive Oil",
+        "region": "福岡県",
+        "tags": [
+            "Producer"
+        ],
+        "bio": "世界的ビートメイカー。福岡県を拠点に活動するラッパー。 Producerなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Olive%20Oil"
+    },
+    {
+        "id": "242",
+        "name": "PEAVIS",
+        "region": "福岡県",
+        "tags": [
+            "Lyrical"
+        ],
+        "bio": "福岡の次世代。福岡県を拠点に活動するラッパー。 Lyricalなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=PEAVIS"
+    },
+    {
+        "id": "243",
+        "name": "YELLADIGOS",
+        "region": "福岡県",
+        "tags": [
+            "Group"
+        ],
+        "bio": "PEAVIS所属。福岡県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=YELLADIGOS"
+    },
+    {
+        "id": "244",
+        "name": "NF Zessho",
+        "region": "福岡県",
+        "tags": [
+            "Lyrical"
+        ],
+        "bio": "玄人好み。福岡県を拠点に活動するラッパー。 Lyricalなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=NF%20Zessho"
+    },
+    {
+        "id": "245",
+        "name": "Bank.Somsaart",
+        "region": "福岡県",
+        "tags": [
+            "Trap"
+        ],
+        "bio": "福岡トラップ。福岡県を拠点に活動するラッパー。 Trapなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Bank.Somsaart"
+    },
+    {
+        "id": "246",
+        "name": "Mega Shinnosuke",
+        "region": "福岡県",
+        "tags": [
+            "Pop"
+        ],
+        "bio": "ジャンルレス。福岡県を拠点に活動するラッパー。 Popなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Mega%20Shinnosuke"
+    },
+    {
+        "id": "247",
+        "name": "HONOTO",
+        "region": "佐賀県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "佐賀拠点。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=HONOTO"
+    },
+    {
+        "id": "248",
+        "name": "DUCK BILL",
+        "region": "佐賀県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "佐賀のストリート。佐賀県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=DUCK%20BILL"
+    },
+    {
+        "id": "249",
+        "name": "Kohjiya",
+        "region": "長崎県",
+        "tags": [
+            "Rapstar Champion",
+            "POP YOURS"
+        ],
+        "bio": "長崎出身。RAPSTAR 2024優勝。POP YOURS出演。 Rapstar Champion、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "DREAM"
+        ],
+        "social": {},
+        "image": "/images/rappers/kohjiya.jpg"
+    },
+    {
+        "id": "250",
+        "name": "REIDAM",
+        "region": "長崎県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "親不孝の実力派。長崎県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=REIDAM"
+    },
+    {
+        "id": "251",
+        "name": "MARCO",
+        "region": "長崎県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "長崎拠点。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MARCO"
+    },
+    {
+        "id": "252",
+        "name": "SPARTA",
+        "region": "熊本県",
+        "tags": [
+            "Skater",
+            "Video"
+        ],
+        "bio": "ビデオグラファー出身。 Skater、Videoなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [
+            "3"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SPARTA"
+    },
+    {
+        "id": "253",
+        "name": "餓鬼レンジャー",
+        "region": "熊本県",
+        "tags": [
+            "Legend"
+        ],
+        "bio": "熊本のベテラン。熊本県を拠点に活動するラッパー。 Legendなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E9%A4%93%E9%AC%BC%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC"
+    },
+    {
+        "id": "254",
+        "name": "WHISKY BOYZ",
+        "region": "熊本県",
+        "tags": [
+            "Group"
+        ],
+        "bio": "熊本の若手。熊本県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=WHISKY%20BOYZ"
+    },
+    {
+        "id": "255",
+        "name": "ケンチンミン",
+        "region": "大分県",
+        "tags": [
+            "Chill"
+        ],
+        "bio": "大分出身。 Chillなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E3%82%B1%E3%83%B3%E3%83%81%E3%83%B3%E3%83%9F%E3%83%B3"
+    },
+    {
+        "id": "256",
+        "name": "18scott",
+        "region": "大分県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "神奈川活動だが大分ルーツ。大分県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=18scott"
+    },
+    {
+        "id": "257",
+        "name": "O.G",
+        "region": "大分県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "大分のローカル。大分県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=O.G"
+    },
+    {
+        "id": "258",
+        "name": "GADORO",
+        "region": "宮崎県",
+        "tags": [
+            "Lyrical",
+            "AH1"
+        ],
+        "bio": "宮崎出身。言葉の重み。AH1出演。 Lyrical、AH1などの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [
+            "四畳半"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=GADORO"
+    },
+    {
+        "id": "259",
+        "name": "J-REXXX",
+        "region": "宮崎県",
+        "tags": [
+            "Reggae"
+        ],
+        "bio": "宮崎出身のラガマフィン。 Reggaeなどの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=J-REXXX"
+    },
+    {
+        "id": "260",
+        "name": "OWL BEATS",
+        "region": "鹿児島県",
+        "tags": [
+            "Producer"
+        ],
+        "bio": "鹿児島拠点ビートメイカー。 Producerなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=OWL%20BEATS"
+    },
+    {
+        "id": "261",
+        "name": "泰尊",
+        "region": "鹿児島県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "鹿児島の魂。鹿児島県を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E6%B3%B0%E5%B0%8A"
+    },
+    {
+        "id": "262",
+        "name": "OZworld",
+        "region": "沖縄県",
+        "tags": [
+            "Cyber",
+            "POP YOURS",
+            "AH1"
+        ],
+        "bio": "嘉手納出身。独特の世界観。POP YOURS出演。 Cyber、POP YOURS、AH1などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [
+            "OZWORLD"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=OZworld"
+    },
+    {
+        "id": "263",
+        "name": "CHICO CARLITO",
+        "region": "沖縄県",
+        "tags": [
+            "Sunny",
+            "AH1"
+        ],
+        "bio": "那覇出身。陽気なキャラクター。AH1出演。 Sunny、AH1などの要素を取り入れた独自のスタイルを展開。 シーンにおいて着実に評価を高めている。",
+        "discography": [
+            "Carlito's Way"
+        ],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=CHICO%20CARLITO"
+    },
+    {
+        "id": "264",
+        "name": "RITTO",
+        "region": "沖縄県",
+        "tags": [
+            "Unique"
+        ],
+        "bio": "石垣島出身。 Uniqueなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=RITTO"
+    },
+    {
+        "id": "265",
+        "name": "唾奇",
+        "region": "沖縄県",
+        "tags": [
+            "Chill"
+        ],
+        "bio": "那覇出身。 Chillなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=%E5%94%BE%E5%A5%87"
+    },
+    {
+        "id": "266",
+        "name": "SugLawd Familiar",
+        "region": "沖縄県",
+        "tags": [
+            "Group",
+            "Viral"
+        ],
+        "bio": "「Longiness」がヒット。沖縄県を拠点に活動するラッパー。 Viralなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=SugLawd%20Familiar"
+    },
+    {
+        "id": "267",
+        "name": "MuKuRo",
+        "region": "沖縄県",
+        "tags": [
+            "Dope"
+        ],
+        "bio": "沖縄のドープなスラング。沖縄県を拠点に活動するラッパー。 Dopeなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=MuKuRo"
+    },
+    {
+        "id": "268",
+        "name": "3liyen",
+        "region": "埼玉県",
+        "tags": [
+            "AH1"
+        ],
+        "bio": "AH1出演。埼玉県を拠点に活動するラッパー。 AH1などの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=3liyen"
+    },
+    {
+        "id": "269",
+        "name": "Yvngboi P",
+        "region": "福岡県",
+        "tags": [
+            "AH1"
+        ],
+        "bio": "AH1出演。福岡県を拠点に活動するラッパー。 AH1などの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/yvngboi_p.jpg"
+    },
+    {
+        "id": "270",
+        "name": "Pxrge Trxxxper",
+        "region": "茨城県",
+        "tags": [
+            "AH1"
+        ],
+        "bio": "AH1出演。茨城県を拠点に活動するラッパー。 AH1などの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Pxrge%20Trxxxper"
+    },
+    {
+        "id": "271",
+        "name": "Rude-α",
+        "region": "沖縄県",
+        "tags": [
+            "Pop"
+        ],
+        "bio": "メジャーデビュー。沖縄県を拠点に活動するラッパー。 Popなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Rude-%CE%B1"
+    },
+    {
+        "id": "272",
+        "name": "D.D.S",
+        "region": "沖縄県",
+        "tags": [
+            "U.S.K"
+        ],
+        "bio": "粘っこいフロー。沖縄県を拠点に活動するラッパー。 U.S.Kなどの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=D.D.S"
+    },
+    {
+        "id": "273",
+        "name": "7",
+        "region": "和歌山県",
+        "tags": [
+            "Female",
+            "POP YOURS"
+        ],
+        "bio": "POP YOURS出演。和歌山県を拠点に活動するラッパー。 Female、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/7.jpg"
+    },
+    {
+        "id": "274",
+        "name": "Ashley",
+        "region": "東京都",
+        "tags": [
+            "Female",
+            "POP YOURS",
+            "AH1"
+        ],
+        "bio": "POP YOURS, AH1出演。東京都を拠点に活動するラッパー。 Female、POP YOURS、AH1などの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Ashley"
+    },
+    {
+        "id": "275",
+        "name": "a子",
+        "region": "東京都",
+        "tags": [
+            "Indie",
+            "POP YOURS"
+        ],
+        "bio": "POP YOURS出演。東京都を拠点に活動するラッパー。 Indie、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=a%E5%AD%90"
+    },
+    {
+        "id": "276",
+        "name": "D3adStock",
+        "region": "神奈川県",
+        "tags": [
+            "Rapstar Finalist"
+        ],
+        "bio": "RAPSTAR 2024ファイナリスト。神奈川県を拠点に活動するラッパー。 Rapstar Finalistなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=D3adStock"
+    },
+    {
+        "id": "277",
+        "name": "L.I.P",
+        "region": "京都府",
+        "tags": [
+            "AH1"
+        ],
+        "bio": "AH1出演。京都府を拠点に活動するラッパー。 AH1などの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=L.I.P"
+    },
+    {
+        "id": "278",
+        "name": "RKN",
+        "region": "東京都",
+        "tags": [
+            "AH1"
+        ],
+        "bio": "AH1出演。東京都を拠点に活動するラッパー。 AH1などの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=RKN"
+    },
+    {
+        "id": "279",
+        "name": "Sirogaras",
+        "region": "東京都",
+        "tags": [
+            "AH1"
+        ],
+        "bio": "AH1出演。東京都を拠点に活動するラッパー。 AH1などの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Sirogaras"
+    },
+    {
+        "id": "280",
+        "name": "Sugar Goose",
+        "region": "東京都",
+        "tags": [
+            "Group",
+            "AH1"
+        ],
+        "bio": "AH1出演。東京都を拠点に活動するラッパー。 AH1などの要素を取り入れた独自のスタイルを展開。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Sugar%20Goose"
+    },
+    {
+        "id": "281",
+        "name": "Yayoi Daimon",
+        "region": "東京都",
+        "tags": [
+            "Female",
+            "POP YOURS"
+        ],
+        "bio": "POP YOURS出演。東京都を拠点に活動するラッパー。 Female、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Yayoi%20Daimon"
+    },
+    {
+        "id": "282",
+        "name": "Tokyo Young Vision",
+        "region": "東京都",
+        "tags": [
+            "Group",
+            "POP YOURS"
+        ],
+        "bio": "Hideyoshi等が所属。東京都を拠点に活動するラッパー。 POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Tokyo%20Young%20Vision"
+    },
+    {
+        "id": "283",
+        "name": "STARKIDS",
+        "region": "東京都",
+        "tags": [
+            "Hyperpop",
+            "POP YOURS"
+        ],
+        "bio": "POP YOURS出演。東京都を拠点に活動するラッパー。 Hyperpop、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=STARKIDS"
+    },
+    {
+        "id": "284",
+        "name": "Peterparker69",
+        "region": "東京都",
+        "tags": [
+            "Hyperpop",
+            "POP YOURS"
+        ],
+        "bio": "POP YOURS出演。東京都を拠点に活動するラッパー。 Hyperpop、POP YOURSなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Peterparker69"
+    },
+    {
+        "id": "285",
+        "name": "Kenayeboi",
+        "region": "東京都",
+        "tags": [
+            "Ambition"
+        ],
+        "bio": "期待の若手。東京都を拠点に活動するラッパー。 Ambitionなどの要素を取り入れた独自のスタイルを展開。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Kenayeboi"
+    },
+    {
+        "id": "286",
+        "name": "Charlu",
+        "region": "東京都",
+        "tags": [
+            "Female",
+            "Rapstar Finalist"
+        ],
+        "bio": "RAPSTAR 2024ファイナリスト。東京都を拠点に活動するラッパー。 Female、Rapstar Finalistなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=Charlu"
+    },
+    {
+        "id": "287",
+        "name": "harka",
+        "region": "和歌山県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "和歌山出身。Homunculu$等のプロデュースで話題。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/harka.jpg"
+    },
+    {
+        "id": "288",
+        "name": "SEEDA",
+        "region": "東京都",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "SCARS。東京・練馬出身。日本語ラップの革新者。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/seeda.jpg"
+    },
+    {
+        "id": "289",
+        "name": "3House",
+        "region": "沖縄県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "沖縄出身。メロディアスなR&B/HipHopスタイル。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/3House.jpg"
+    },
+    {
+        "id": "290",
+        "name": "CFN Malik",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "横須賀出身。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/cfn_malik.jpg"
+    },
+    {
+        "id": "291",
+        "name": "Mikado",
+        "region": "和歌山県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "和歌山出身。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/MIKADO.jpg"
+    },
+    {
+        "id": "292",
+        "name": "Double Up",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "川崎出身のデュオ。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/double_up.jpg"
+    },
+    {
+        "id": "293",
+        "name": "Pax0",
+        "region": "千葉県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "千葉出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/pax0.jpg"
+    },
+    {
+        "id": "294",
+        "name": "Sad Kid Yaz",
+        "region": "静岡県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "静岡・富士市出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/sad_kid_yaz.jpg"
+    },
+    {
+        "id": "295",
+        "name": "Siero",
+        "region": "東京都",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "東京拠点（新潟生まれ）。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/siero.jpg"
+    },
+    {
+        "id": "296",
+        "name": "Lisa lil vinci",
+        "region": "長野県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "長野出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/lisa_lil_vinci.jpg"
+    },
+    {
+        "id": "297",
+        "name": "Lazy Doll",
+        "region": "東京都",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "東京拠点。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/lazy_doll.jpg"
+    },
+    {
+        "id": "298",
+        "name": "2-KID",
+        "region": "静岡県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "静岡出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/2-KID.jpg"
+    },
+    {
+        "id": "299",
+        "name": "Kegon",
+        "region": "兵庫県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "兵庫出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/kegon.jpg"
+    },
+    {
+        "id": "300",
+        "name": "Yamiboi To$",
+        "region": "福井県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "福井出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/yamiboi_to$.jpg"
+    },
+    {
+        "id": "301",
+        "name": "TOFU",
+        "region": "和歌山県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "和歌山出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/TOFU.jpg"
+    },
+    {
+        "id": "302",
+        "name": "Yellasoma",
+        "region": "福島県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "福島・相馬出身。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/yellasoma.jpg"
+    },
+    {
+        "id": "303",
+        "name": "Myghty Tommy",
+        "region": "沖縄県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "東京拠点。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/myghty_tommy.jpg"
+    },
+    {
+        "id": "304",
+        "name": "Mel Eden",
+        "region": "長野県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "長野出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/mel_eden.jpg"
+    },
+    {
+        "id": "305",
+        "name": "Deech",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "川崎出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/deech.jpg"
+    },
+    {
+        "id": "306",
+        "name": "Tete",
+        "region": "長崎県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "長崎・平戸出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/tete.jpg"
+    },
+    {
+        "id": "307",
+        "name": "Farmhouse",
+        "region": "埼玉県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "埼玉・越生出身。SUSHIBOYSメンバー。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/farmhouse.jpg"
+    },
+    {
+        "id": "308",
+        "name": "Verry Smol",
+        "region": "東京都",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "東京・町田出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/verry_smol.jpg"
+    },
+    {
+        "id": "309",
+        "name": "Enel",
+        "region": "和歌山県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "和歌山出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/enel.jpg"
+    },
+    {
+        "id": "310",
+        "name": "Miyachi",
+        "region": "東京都",
+        "tags": [
+            "Global",
+            "Technical"
+        ],
+        "bio": "NY出身だが東京シーンで活躍。英語と日本語を自在に操る。 Global、Technicalなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/miyachi.jpg"
+    },
+    {
+        "id": "311",
+        "name": "Shotaro (Taro)",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "神奈川出身。Taro名義でも活動。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/taro.jpg"
+    },
+    {
+        "id": "312",
+        "name": "Jinmenusagi",
+        "region": "東京都",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "東京・千代田区出身。スキルフルな実力派。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Jinmenusagi.jpg"
+    },
+    {
+        "id": "313",
+        "name": "Kamui",
+        "region": "愛知県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "名古屋出身。サイバーパンクな世界観。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/kamui.jpg"
+    },
+    {
+        "id": "314",
+        "name": "DABO",
+        "region": "千葉県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "千葉・野田出身。NITRO MICROPHONE UNDERGROUND。 独自のフロウとリリックで存在感を示している。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/DAB.jpg"
+    },
+    {
+        "id": "315",
+        "name": "Jellyy",
+        "region": "大阪府",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "大阪出身。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Jellyy.jpg"
+    },
+    {
+        "id": "316",
+        "name": "Tiea Creator",
+        "region": "宮城県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "宮城出身。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/tiea_creator.jpg"
+    },
+    {
+        "id": "317",
+        "name": "Maguire",
+        "region": "宮城県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "宮城出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/MAGUIRE.jpg"
+    },
+    {
+        "id": "318",
+        "name": "Gamball",
+        "region": "新潟県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "新潟出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/gamball.jpg"
+    },
+    {
+        "id": "319",
+        "name": "Xameleon",
+        "region": "埼玉県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "埼玉出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Xameleon.jpg"
+    },
+    {
+        "id": "320",
+        "name": "You Geek",
+        "region": "愛知県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "名古屋出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/you_geek.jpg"
+    },
+    {
+        "id": "321",
+        "name": "DNE",
+        "region": "福岡県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "福岡出身。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/DNE.jpg"
+    },
+    {
+        "id": "322",
+        "name": "炒炒",
+        "region": "和歌山県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "和歌山出身。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/炒炒.jpg"
+    },
+    {
+        "id": "323",
+        "name": "jellyyabashi",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "神奈川出身。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/Jellyyabashi.jpg"
+    },
+    {
+        "id": "324",
+        "name": "brrrsos",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "神奈川出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/brrrsos.jpg"
+    },
+    {
+        "id": "325",
+        "name": "juggrixcsentana",
+        "region": "神奈川県",
+        "tags": [
+            "Local"
+        ],
+        "bio": "神奈川出身。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/juggrixhsentana.jpg"
+    },
+    {
+        "id": "326",
+        "name": "saggypantsshinba",
+        "region": "神奈川県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "神奈川出身。 独自のフロウとリリックで存在感を示している。 シーンにおいて着実に評価を高めている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/saggypants_shimba.jpg"
+    },
+    {
+        "id": "327",
+        "name": "nowyoumakemeup",
+        "region": "北海道",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "北海道を拠点に活動するラッパー。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "https://placehold.co/600x400/18181b/a1a1aa?text=nowyoumakemeup"
+    },
+    {
+        "id": "328",
+        "name": "千葉雄喜",
+        "region": "東京都",
+        "tags": [
+            "Team Tomodachi",
+            "Trap",
+            "Viral"
+        ],
+        "bio": "東京・北区王子出身。KOHH。 Team Tomodachi、Trap、Viralなどの要素を取り入れた独自のスタイルを展開。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/千葉雄喜.jpg"
+    },
+    {
+        "id": "329",
+        "name": "Masato Hayashi",
+        "region": "東京都",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "東京・八王子出身。Pablo Blasta。 独自のフロウとリリックで存在感を示している。 精力的なリリースとライブ活動を行っている。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/masato_hayashi.jpg"
+    },
+    {
+        "id": "330",
+        "name": "NeS",
+        "region": "宮城県",
+        "tags": [
+            "Rapper"
+        ],
+        "bio": "宮城出身。神奈川拠点。 独自のフロウとリリックで存在感を示している。 今後の活躍が最も期待されるアーティストの一人。",
+        "discography": [],
+        "social": {},
+        "image": "/images/rappers/NeS.jpg"
+    }
+]
