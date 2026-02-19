@@ -10,6 +10,8 @@ import { ArrowLeft, Youtube, Instagram, Twitter, Music } from 'lucide-react';
 import { Rapper } from '@/types/rapper';
 import { regionMapping } from '@/lib/regions';
 
+import LikeButton from '@/components/LikeButton';
+
 interface PageProps {
     params: Promise<{ id: string }>;
 }
@@ -73,7 +75,10 @@ export default async function RapperPage({ params }: PageProps) {
                                 ))}
                             </div>
                         </div>
-                        <div className="flex gap-2 mt-6 md:mt-0">
+                        <div className="flex gap-2 mt-6 md:mt-0 items-center">
+                            <div className="mr-4">
+                                <LikeButton rapperId={rapper.id} initialLikes={rapper.likes || 0} />
+                            </div>
                             {rapper.social?.youtube && (
                                 <Button size="icon" variant="outline" asChild className="border-zinc-700 hover:bg-zinc-800 hover:text-red-500">
                                     <Link href={rapper.social.youtube} target="_blank"><Youtube /></Link>

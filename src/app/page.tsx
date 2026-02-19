@@ -1,5 +1,7 @@
 import JapanMap from "@/components/JapanMap";
 import RapperSearch from "@/components/RapperSearch";
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
@@ -13,9 +15,14 @@ export default function Home() {
           <h1 className="text-3xl md:text-5xl font-black tracking-tighter text-white mb-2">
             ラッパー全国図鑑
           </h1>
-          <p className="text-zinc-400 font-mono text-xs uppercase tracking-widest">
+          <p className="text-zinc-400 font-mono text-xs uppercase tracking-widest mb-4">
             JAPANESE HIPHOP ARTIST ARCHIVE
           </p>
+          <Button variant="outline" size="sm" asChild className="border-zinc-800 text-zinc-400 hover:text-white hover:bg-zinc-900">
+            <Link href="/register">
+              + Add New Rapper
+            </Link>
+          </Button>
         </div>
 
         <div className="mb-4 w-full flex justify-center">

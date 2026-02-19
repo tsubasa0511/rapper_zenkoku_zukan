@@ -21,7 +21,9 @@ export default async function RegionPage({ params }: PageProps) {
         notFound();
     }
 
-    const rappers = (rappersData as Rapper[]).filter(r => r.region === regionName);
+    const rappers = (rappersData as Rapper[])
+        .filter(r => r.region === regionName)
+        .sort((a, b) => (b.likes || 0) - (a.likes || 0));
 
     return (
         <div className="min-h-screen bg-black text-white p-6">

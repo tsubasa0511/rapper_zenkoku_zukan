@@ -5,6 +5,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Rapper } from "@/types/rapper";
+import LikeButton from "@/components/LikeButton";
 
 interface RapperCardProps {
     rapper: Rapper;
@@ -30,7 +31,10 @@ const RapperCard: React.FC<RapperCardProps> = ({ rapper }) => {
             <CardHeader className="relative -mt-12 z-10">
                 <div className="flex justify-between items-start">
                     <CardTitle className="text-xl font-bold">{rapper.name}</CardTitle>
-                    <Badge variant="outline" className="text-zinc-400 border-zinc-700">{rapper.region}</Badge>
+                    <div className="flex items-center gap-2">
+                        <LikeButton rapperId={rapper.id} initialLikes={rapper.likes || 0} />
+                        <Badge variant="outline" className="text-zinc-400 border-zinc-700">{rapper.region}</Badge>
+                    </div>
                 </div>
                 <div className="flex flex-wrap gap-2 mt-2">
                     {rapper.tags.map((tag) => (

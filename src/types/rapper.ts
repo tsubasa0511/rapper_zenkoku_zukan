@@ -11,4 +11,5 @@ export interface Rapper {
         twitter?: string;
     };
     image?: string;
+    likes: number;
 }
