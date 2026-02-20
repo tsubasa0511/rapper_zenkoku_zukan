@@ -2,8 +2,11 @@ import JapanMap from "@/components/JapanMap";
 import RapperSearch from "@/components/RapperSearch";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
+import { getRappersData } from "@/lib/data";
 
 export default function Home() {
+  const rappers = getRappersData();
+
   return (
     <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center p-4 relative overflow-hidden">
       {/* Background Elements */}
@@ -26,7 +29,7 @@ export default function Home() {
         </div>
 
         <div className="mb-4 w-full flex justify-center">
-          <RapperSearch />
+          <RapperSearch rappers={rappers} />
         </div>
 
         <div className="w-full h-[85vh] flex items-center justify-center">

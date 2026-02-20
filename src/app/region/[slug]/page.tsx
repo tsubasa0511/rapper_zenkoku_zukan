@@ -3,11 +3,10 @@ import React from 'react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { regionMapping } from '@/lib/regions';
-import rappersData from '@/data/rappers.json';
+import { getRappersData } from '@/lib/data';
 import RapperCard from '@/components/RapperCard';
 import { Button } from '@/components/ui/button';
 import { ArrowLeft } from 'lucide-react';
-import { Rapper } from '@/types/rapper';
 
 interface PageProps {
     params: Promise<{ slug: string }>;
@@ -21,7 +20,7 @@ export default async function RegionPage({ params }: PageProps) {
         notFound();
     }
 
-    const rappers = (rappersData as Rapper[])
+    const rappers = getRappersData()
         .filter(r => r.region === regionName)
         .sort((a, b) => (b.likes || 0) - (a.likes || 0));
 

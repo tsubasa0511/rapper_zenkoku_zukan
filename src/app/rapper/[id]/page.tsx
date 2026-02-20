@@ -2,12 +2,11 @@
 import React from 'react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import rappersData from '@/data/rappers.json';
+import { getRappersData } from '@/lib/data';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
 import { ArrowLeft, Youtube, Instagram, Twitter, Music } from 'lucide-react';
-import { Rapper } from '@/types/rapper';
 import { regionMapping } from '@/lib/regions';
 
 import LikeButton from '@/components/LikeButton';
@@ -18,7 +17,7 @@ interface PageProps {
 
 export default async function RapperPage({ params }: PageProps) {
     const { id } = await params;
-    const rapper = (rappersData as Rapper[]).find(r => r.id === id);
+    const rapper = getRappersData().find(r => r.id === id);
 
     if (!rapper) {
         notFound();

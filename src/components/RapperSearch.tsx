@@ -4,17 +4,17 @@
 import { useState, useMemo, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { Search, X } from "lucide-react";
-import rappersData from "@/data/rappers.json";
 import { Rapper } from "@/types/rapper";
 
-export default function RapperSearch() {
+interface RapperSearchProps {
+    rappers: Rapper[];
+}
+
+export default function RapperSearch({ rappers }: RapperSearchProps) {
     const [query, setQuery] = useState("");
     const [isOpen, setIsOpen] = useState(false);
     const router = useRouter();
     const wrapperRef = useRef<HTMLDivElement>(null);
-
-    // Type assertion for the data import
-    const rappers = rappersData as Rapper[];
 
     const filteredRappers = useMemo(() => {
         if (!query) return [];

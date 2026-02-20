@@ -1,18 +1,12 @@
 'use server';
 
-import fs from 'fs';
-import path from 'path';
 import { Rapper } from '@/types/rapper';
-
 import { revalidatePath } from 'next/cache';
-
-// Use process.cwd() to get the root directory in Next.js
-const dataFilePath = path.join(process.cwd(), 'src/data/rappers.json');
+import { getRappersData, saveRappersData } from '@/lib/data';
 
 export async function incrementLike(rapperId: string) {
     try {
-        const fileContent = fs.readFileSync(dataFilePath, 'utf8');
-        const rappers: Rapper[] = JSON.parse(fileContent);
+        const rappers = getRappersData();
 
         let updated = false;
         const updatedRappers = rappers.map((rapper) => {
@@ -28,7 +22,7 @@ export async function incrementLike(rapperId: string) {
             return { success: false, error: 'Rapper not found' };
         }
 
-        fs.writeFileSync(dataFilePath, JSON.stringify(updatedRappers, null, 4), 'utf8');
+        saveRappersData(updatedRappers);
 
         // Revalidate all pages to show new like count
         revalidatePath('/', 'layout');
@@ -56,10 +50,10 @@ export async function registerRapper(formData: FormData) {
             return { success: false, error: 'Name, Region, and Bio are required.' };
         }
 
-        const fileContent = fs.readFileSync(dataFilePath, 'utf8');
-        const rappers: Rapper[] = JSON.parse(fileContent);
+        const rappers = getRappersData();
 
-        const newId = (rappers.length + 1).toString();
+        const maxId = rappers.reduce((max, r) => Math.max(max, parseInt(r.id) || 0), 0);
+        const newId = (maxId + 1).toString();
 
         const newRapper: Rapper = {
             id: newId,
@@ -67,19 +61,19 @@ export async function registerRapper(formData: FormData) {
             region,
             tags,
             bio,
-            discography: [], // Init empty
+            discography: [],
             social: {
                 youtube: youtube || undefined,
                 twitter: twitter || undefined,
                 instagram: instagram || undefined
             },
-            image: undefined, // Placeholder will be used
+            image: undefined,
             likes: 0
         };
 
-        rappers.push(newRapper);
+        const updatedRappers = [...rappers, newRapper];
 
-        fs.writeFileSync(dataFilePath, JSON.stringify(rappers, null, 4), 'utf8');
+        saveRappersData(updatedRappers);
 
         revalidatePath('/', 'layout');
 
