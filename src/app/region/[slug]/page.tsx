@@ -8,6 +8,8 @@ import RapperCard from '@/components/RapperCard';
 import { Button } from '@/components/ui/button';
 import { ArrowLeft } from 'lucide-react';
 
+export const dynamic = 'force-dynamic';
+
 interface PageProps {
     params: Promise<{ slug: string }>;
 }

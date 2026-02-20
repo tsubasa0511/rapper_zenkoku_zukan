@@ -11,6 +11,8 @@ import { regionMapping } from '@/lib/regions';
 
 import LikeButton from '@/components/LikeButton';
 
+export const dynamic = 'force-dynamic';
+
 interface PageProps {
     params: Promise<{ id: string }>;
 }
